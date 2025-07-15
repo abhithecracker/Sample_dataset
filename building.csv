@@ -1,0 +1,1461 @@
+Property_Id,BldgType,HouseStyle,OverallQual,OverallCond,YearBuilt,YearRemodAdd,RoofStyle,RoofMatl,Exterior1st,Exterior2nd,MasVnrType,MasVnrArea,ExterQual,ExterCond,Foundation
+0,1Fam,2Story,7,5,2003,2003,Gable,CompShg,VinylSd,VinylSd,BrkFace,196,Gd,TA,PConc
+1,1Fam,1Story,6,8,1976,1976,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+2,1Fam,2Story,7,5,2001,2002,Gable,CompShg,VinylSd,VinylSd,BrkFace,162,Gd,TA,PConc
+3,1Fam,2Story,7,5,1915,1970,Gable,CompShg,Wd Sdng,Wd Shng,None,0,TA,TA,BrkTil
+4,1Fam,2Story,8,5,2000,2000,Gable,CompShg,VinylSd,VinylSd,BrkFace,350,Gd,TA,PConc
+5,1Fam,1.5Fin,5,5,1993,1995,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,Wood
+6,1Fam,1Story,8,5,2004,2005,Gable,CompShg,VinylSd,VinylSd,Stone,186,Gd,TA,PConc
+7,1Fam,2Story,7,6,1973,1973,Gable,CompShg,HdBoard,HdBoard,Stone,240,TA,TA,CBlock
+8,1Fam,1.5Fin,7,5,1931,1950,Gable,CompShg,BrkFace,Wd Shng,None,0,TA,TA,BrkTil
+9,2fmCon,1.5Unf,5,6,1939,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil
+10,1Fam,1Story,5,5,1965,1965,Hip,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+11,1Fam,2Story,9,5,2005,2006,Hip,CompShg,WdShing,Wd Shng,Stone,286,Ex,TA,PConc
+12,1Fam,1Story,5,6,1962,1962,Hip,CompShg,HdBoard,Plywood,None,0,TA,TA,CBlock
+13,1Fam,1Story,7,5,2006,2007,Gable,CompShg,VinylSd,VinylSd,Stone,306,Gd,TA,PConc
+14,1Fam,1Story,6,5,1960,1960,Hip,CompShg,MetalSd,MetalSd,BrkFace,212,TA,TA,CBlock
+15,1Fam,1.5Unf,7,8,1929,2001,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+16,1Fam,1Story,6,7,1970,1970,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,180,TA,TA,CBlock
+17,Duplex,1Story,4,5,1967,1967,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,Slab
+18,1Fam,1Story,5,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+19,1Fam,1Story,5,6,1958,1965,Hip,CompShg,BrkFace,Plywood,None,0,TA,TA,CBlock
+20,1Fam,2Story,8,5,2005,2006,Gable,CompShg,VinylSd,VinylSd,BrkFace,380,Gd,TA,PConc
+21,1Fam,1.5Unf,7,7,1930,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,PConc
+22,1Fam,1Story,8,5,2002,2002,Hip,CompShg,VinylSd,VinylSd,BrkFace,281,Gd,TA,PConc
+23,TwnhsE,1Story,5,7,1976,1976,Gable,CompShg,CemntBd,CmentBd,None,0,TA,TA,PConc
+24,1Fam,1Story,5,8,1968,2001,Gable,CompShg,Plywood,Plywood,None,0,TA,Gd,CBlock
+25,1Fam,1Story,8,5,2007,2007,Gable,CompShg,VinylSd,VinylSd,Stone,640,Gd,TA,PConc
+26,1Fam,1Story,5,7,1951,2000,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+27,1Fam,1Story,8,5,2007,2008,Gable,CompShg,VinylSd,VinylSd,Stone,200,Gd,TA,PConc
+28,1Fam,1Story,5,6,1957,1997,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+29,1Fam,1Story,4,6,1927,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil
+30,1Fam,2Story,4,4,1920,1950,Gambrel,CompShg,BrkFace,BrkFace,None,0,TA,Fa,BrkTil
+31,1Fam,1Story,5,6,1966,2006,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+32,1Fam,1Story,8,5,2007,2007,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+33,1Fam,1Story,5,5,1959,1959,Hip,CompShg,BrkFace,BrkFace,None,0,TA,TA,CBlock
+34,TwnhsE,1Story,9,5,2005,2005,Hip,CompShg,MetalSd,MetalSd,BrkFace,246,Ex,TA,PConc
+35,1Fam,2Story,8,5,2004,2005,Gable,CompShg,VinylSd,VinylSd,Stone,132,Gd,TA,PConc
+36,1Fam,1Story,5,5,1994,1995,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+37,1Fam,1Story,5,6,1954,1990,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,650,TA,TA,CBlock
+38,1Fam,1Story,5,7,1953,2007,Gable,CompShg,VinylSd,VinylSd,None,0,TA,Gd,CBlock
+39,Duplex,1Story,4,5,1955,1955,Gable,CompShg,AsbShng,Plywood,None,0,TA,TA,PConc
+40,1Fam,1Story,6,5,1965,1965,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,101,TA,TA,CBlock
+41,1Fam,1Story,5,6,1959,1959,Gable,CompShg,VinylSd,VinylSd,None,0,TA,Gd,CBlock
+42,1Fam,SFoyer,5,7,1983,1983,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+43,1Fam,1Story,5,6,1975,1980,Hip,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+44,1Fam,1Story,5,6,1959,1959,Gable,CompShg,BrkFace,Wd Sdng,None,0,TA,TA,CBlock
+45,TwnhsE,1Story,9,5,2005,2005,Hip,CompShg,MetalSd,MetalSd,BrkFace,412,Ex,TA,PConc
+46,1Fam,1.5Fin,7,5,2003,2003,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+47,1Fam,1Story,8,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+48,2fmCon,2Story,4,5,1920,2008,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil
+49,1Fam,1Story,5,7,1966,1966,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+50,1Fam,2Story,6,6,1997,1997,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+51,1Fam,1.5Fin,6,6,1934,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,PConc
+52,Duplex,1Story,5,5,1963,1963,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,Fa,TA,CBlock
+53,1Fam,1Story,9,5,1981,1987,Gable,WdShngl,WdShing,Wd Shng,None,0,Gd,TA,CBlock
+54,1Fam,SLvl,5,5,1955,1955,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+55,1Fam,1Story,6,5,1964,1964,Gable,CompShg,HdBoard,Plywood,BrkFace,272,TA,TA,CBlock
+56,Twnhs,2Story,8,5,1999,2000,Gable,CompShg,MetalSd,MetalSd,BrkFace,456,Gd,TA,PConc
+57,1Fam,2Story,7,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+58,1Fam,2Story,10,5,2006,2006,Hip,CompShg,VinylSd,VinylSd,BrkFace,1031,Ex,TA,PConc
+59,1Fam,1Story,5,7,1972,1972,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+60,1Fam,1Story,6,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+61,1Fam,2.5Unf,5,7,1920,1996,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil
+62,TwnhsE,1Story,8,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,Stone,178,Gd,TA,PConc
+63,1Fam,2Story,7,6,1921,1950,Gable,CompShg,Stucco,Stucco,None,0,TA,TA,BrkTil
+64,1Fam,2Story,7,5,1997,1998,Gable,CompShg,VinylSd,VinylSd,BrkFace,573,TA,TA,PConc
+65,1Fam,2Story,8,5,2004,2005,Gable,CompShg,VinylSd,VinylSd,BrkFace,344,Gd,TA,PConc
+66,1Fam,1Story,7,5,1970,1989,Gable,CompShg,Plywood,Plywood,BrkFace,287,TA,TA,CBlock
+67,1Fam,1Story,7,5,2003,2003,Gable,CompShg,VinylSd,VinylSd,BrkFace,167,Gd,TA,PConc
+68,1Fam,1Story,4,6,1945,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Gd,CBlock
+69,1Fam,1.5Fin,7,4,1953,1953,Gable,CompShg,BrkFace,AsbShng,None,0,Gd,TA,CBlock
+70,1Fam,1Story,7,6,1973,1973,Gable,CompShg,Plywood,Plywood,BrkFace,1115,TA,Gd,CBlock
+71,1Fam,1Story,4,6,1982,2006,Gable,CompShg,HdBoard,Plywood,None,0,TA,TA,CBlock
+72,1Fam,2Story,7,5,1998,1998,Gable,CompShg,VinylSd,VinylSd,BrkFace,40,TA,TA,PConc
+73,1Fam,1Story,5,7,1954,2003,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,104,TA,TA,CBlock
+74,1Fam,2Story,3,6,1915,1950,Gambrel,CompShg,VinylSd,VinylSd,None,0,Gd,Gd,CBlock
+75,Twnhs,SLvl,4,5,1973,1973,Gable,CompShg,CemntBd,CmentBd,None,0,TA,TA,CBlock
+76,1Fam,1Story,4,7,1956,1956,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+77,1Fam,1.5Fin,5,5,1948,2001,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+78,Duplex,1Story,4,5,1968,1968,Hip,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+79,1Fam,2Story,5,6,1910,1981,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,PConc
+80,1Fam,2Story,6,6,1968,1968,Gable,CompShg,VinylSd,VinylSd,BrkFace,576,TA,Gd,CBlock
+81,TwnhsE,1Story,6,5,1998,1998,Hip,CompShg,VinylSd,VinylSd,BrkFace,443,TA,Gd,PConc
+82,1Fam,1Story,8,5,2007,2007,Gable,CompShg,VinylSd,VinylSd,Stone,468,TA,TA,PConc
+83,1Fam,1Story,5,5,1960,1960,Gable,CompShg,MetalSd,MetalSd,BrkCmn,66,TA,TA,CBlock
+84,1Fam,SLvl,7,5,1995,1996,Gable,CompShg,HdBoard,HdBoard,BrkFace,22,TA,TA,PConc
+85,1Fam,2Story,8,5,1991,1992,Hip,CompShg,HdBoard,HdBoard,BrkFace,284,Gd,TA,CBlock
+86,1Fam,2Story,6,5,2005,2005,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+87,TwnhsE,2Story,6,5,2009,2009,Gable,CompShg,VinylSd,VinylSd,Stone,76,Gd,TA,PConc
+88,1Fam,1.5Fin,3,2,1915,1982,Hip,CompShg,Plywood,Plywood,None,0,Fa,Fa,CBlock
+89,1Fam,1Story,4,5,1994,1995,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+90,1Fam,1Story,4,5,1950,1950,Gable,CompShg,BrkFace,Wd Sdng,None,0,TA,TA,Slab
+91,1Fam,1Story,5,3,1961,1961,Hip,CompShg,HdBoard,HdBoard,BrkCmn,203,TA,TA,CBlock
+92,1Fam,1Story,5,7,1921,2006,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,Gd,BrkTil
+93,2fmCon,2.5Unf,6,6,1910,1998,Hip,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil
+94,1Fam,2Story,6,5,1997,1997,Gable,CompShg,VinylSd,VinylSd,None,0,TA,Gd,PConc
+95,1Fam,2Story,6,8,1993,1993,Gable,CompShg,VinylSd,VinylSd,BrkFace,68,Ex,Gd,PConc
+96,1Fam,1Story,7,5,1999,1999,Gable,CompShg,VinylSd,VinylSd,BrkFace,183,Gd,TA,PConc
+97,1Fam,1Story,4,5,1965,1965,Hip,CompShg,HdBoard,HdBoard,BrkFace,48,TA,TA,CBlock
+98,1Fam,1Story,5,5,1920,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+99,1Fam,1Story,4,5,1959,1959,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+100,1Fam,1Story,6,7,1977,2001,Gable,CompShg,Plywood,Plywood,BrkFace,28,TA,TA,PConc
+101,1Fam,2Story,6,5,1985,1985,Gable,CompShg,HdBoard,HdBoard,BrkFace,336,Gd,TA,CBlock
+102,Duplex,1Story,5,5,1979,1979,Gable,CompShg,HdBoard,HdBoard,None,0,TA,Fa,Slab
+103,1Fam,1Story,7,5,2009,2009,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+104,1Fam,1.5Fin,7,4,1931,1950,Gable,CompShg,Stucco,Stucco,BrkFace,600,TA,Fa,PConc
+105,1Fam,2Story,8,5,2003,2004,Hip,CompShg,VinylSd,VinylSd,BrkFace,768,Gd,TA,PConc
+106,1Fam,1Story,4,7,1885,1995,Mansard,CompShg,VinylSd,VinylSd,None,0,TA,TA,BrkTil
+107,1Fam,1Story,5,5,1948,1950,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+108,1Fam,1.5Fin,5,7,1919,2005,Gable,CompShg,CemntBd,CmentBd,None,0,TA,TA,CBlock
+109,1Fam,1Story,6,6,1977,1977,Hip,CompShg,Plywood,Plywood,BrkFace,480,TA,TA,CBlock
+110,1Fam,1.5Fin,6,4,1954,1972,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+111,1Fam,SLvl,7,5,2000,2000,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+112,1Fam,2Story,7,5,2007,2007,Gable,CompShg,VinylSd,VinylSd,Stone,220,Gd,TA,PConc
+113,1Fam,1Story,6,5,1953,1953,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,184,TA,Gd,CBlock
+114,1Fam,2Story,6,8,1945,2002,Gambrel,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+115,TwnhsE,2Story,6,5,1999,1999,Gable,CompShg,MetalSd,MetalSd,BrkFace,1129,TA,TA,PConc
+116,1Fam,1Story,5,5,1962,1962,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,116,TA,TA,CBlock
+117,1Fam,1Story,5,5,2006,2007,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+118,1Fam,2Story,7,5,1990,1990,Hip,CompShg,Plywood,Plywood,None,0,TA,TA,PConc
+119,1Fam,2Story,6,5,2005,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+120,1Fam,SLvl,6,5,1969,1969,Flat,Metal,Plywood,Plywood,None,0,TA,TA,CBlock
+121,1Fam,1.5Fin,4,5,1939,1950,Gable,CompShg,AsbShng,AsbShng,None,0,TA,TA,PConc
+122,1Fam,1Story,6,7,1958,1958,Hip,CompShg,MetalSd,MetalSd,BrkFace,135,TA,Gd,CBlock
+123,TwnhsE,1Story,6,5,1993,1993,Gable,CompShg,Plywood,Plywood,None,0,Gd,TA,PConc
+124,1Fam,1Story,6,5,1979,1998,Gable,CompShg,HdBoard,HdBoard,None,0,TA,Gd,CBlock
+125,2fmCon,1.5Fin,6,8,1935,1982,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,Fa,CBlock
+126,TwnhsE,1Story,6,5,1976,1976,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+127,1Fam,1.5Unf,5,7,1930,1950,Gable,CompShg,WdShing,Wd Sdng,None,0,TA,Gd,BrkTil
+128,1Fam,2Story,6,5,1966,1966,Gable,CompShg,VinylSd,VinylSd,BrkFace,266,TA,TA,CBlock
+129,1Fam,1Story,5,7,1958,1991,Gable,CompShg,Plywood,Plywood,BrkFace,85,TA,TA,CBlock
+130,1Fam,2Story,7,6,1966,1966,Gable,CompShg,MetalSd,MetalSd,BrkFace,309,TA,TA,CBlock
+131,1Fam,2Story,6,5,2000,2000,Gable,CompShg,VinylSd,VinylSd,BrkFace,40,Gd,TA,PConc
+132,1Fam,1Story,5,6,1959,2002,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+133,1Fam,1Story,8,5,2001,2002,Gable,CompShg,VinylSd,VinylSd,BrkFace,136,Gd,TA,PConc
+134,1Fam,1Story,5,6,1968,1993,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+135,1Fam,1Story,7,6,1970,1970,Hip,CompShg,Plywood,Plywood,BrkFace,288,TA,TA,PConc
+136,1Fam,1Story,5,5,1967,1967,Gable,CompShg,MetalSd,MetalSd,BrkFace,196,TA,TA,CBlock
+137,Duplex,1Story,7,5,1988,1989,Gable,CompShg,VinylSd,VinylSd,BrkFace,70,TA,TA,CBlock
+138,1Fam,2Story,8,5,1999,2000,Gable,CompShg,VinylSd,VinylSd,BrkFace,320,Gd,TA,PConc
+139,1Fam,2Story,6,5,1997,1997,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+140,1Fam,1Story,4,5,1971,1971,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+141,1Fam,1Story,7,5,2005,2005,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+142,1Fam,1.5Fin,5,4,1952,1952,Gable,CompShg,BrkFace,Wd Sdng,None,0,TA,Fa,CBlock
+143,1Fam,1Story,7,5,1999,1999,Gable,CompShg,VinylSd,VinylSd,BrkFace,183,Gd,TA,PConc
+144,Duplex,1Story,5,5,1963,1963,Gable,CompShg,HdBoard,HdBoard,BrkFace,336,TA,TA,CBlock
+145,Twnhs,2Story,6,5,2004,2006,Gable,CompShg,VinylSd,VinylSd,Stone,50,Gd,TA,PConc
+146,1Fam,1Story,5,7,1931,1993,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+147,1Fam,2Story,7,5,2001,2001,Gable,CompShg,VinylSd,VinylSd,BrkFace,180,Gd,TA,PConc
+148,1Fam,1Story,7,5,2004,2005,Gable,CompShg,VinylSd,VinylSd,BrkFace,120,TA,TA,PConc
+149,1Fam,1.5Fin,5,4,1936,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil
+150,1Fam,1Story,5,6,1975,1975,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+151,1Fam,1Story,8,5,2007,2008,Hip,CompShg,VinylSd,VinylSd,Stone,436,Gd,TA,PConc
+152,1Fam,2Story,6,5,1971,1971,Gable,CompShg,HdBoard,HdBoard,BrkFace,252,TA,TA,CBlock
+153,1Fam,1Story,6,7,1960,1975,Flat,CompShg,BrkFace,Plywood,None,0,TA,TA,CBlock
+154,1Fam,1Story,6,5,1923,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+155,1Fam,1.5Fin,6,5,1924,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+156,1Fam,1Story,5,7,1950,1950,Hip,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+157,1Fam,2Story,8,5,2009,2010,Gable,CompShg,VinylSd,VinylSd,BrkFace,84,Gd,TA,PConc
+158,1Fam,2Story,7,5,2004,2005,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+159,1Fam,2Story,7,5,2005,2006,Gable,CompShg,VinylSd,VinylSd,BrkFace,456,Gd,TA,PConc
+160,1Fam,1Story,6,6,1984,1984,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,PConc
+161,1Fam,2Story,9,5,2003,2004,Gable,CompShg,VinylSd,VinylSd,BrkFace,664,Gd,TA,PConc
+162,1Fam,1Story,7,5,2005,2005,Gable,CompShg,VinylSd,VinylSd,BrkFace,226,Gd,TA,PConc
+163,1Fam,1.5Unf,4,6,1956,1956,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+164,1Fam,1Story,6,7,1926,2004,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Gd,BrkTil
+165,2fmCon,1.5Fin,5,7,1940,1999,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,Gd,BrkTil
+166,1Fam,1Story,5,5,1955,1993,Hip,CompShg,Wd Sdng,Wd Sdng,None,0,Gd,TA,CBlock
+167,1Fam,2Story,8,5,2007,2007,Gable,CompShg,VinylSd,VinylSd,Stone,300,Gd,TA,PConc
+168,1Fam,2Story,7,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+169,1Fam,1Story,8,6,1981,1981,Hip,WdShake,Plywood,Plywood,BrkFace,653,Gd,TA,CBlock
+170,1Fam,1.5Fin,5,6,1941,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+171,1Fam,1Story,6,5,1960,1960,Hip,CompShg,BrkFace,Plywood,Stone,112,TA,TA,CBlock
+172,TwnhsE,2Story,7,7,1987,1987,Gable,CompShg,HdBoard,HdBoard,None,0,Gd,Gd,PConc
+173,1Fam,1Story,6,5,1961,1961,Gable,CompShg,WdShing,Wd Shng,BrkCmn,491,TA,TA,CBlock
+174,1Fam,1Story,6,5,1986,1986,Gable,CompShg,VinylSd,Plywood,Stone,132,TA,TA,CBlock
+175,1Fam,1Story,6,7,1950,2001,Gable,CompShg,WdShing,Wd Shng,None,0,TA,TA,CBlock
+176,1Fam,2Story,6,5,1988,1989,Gable,CompShg,Plywood,Plywood,BrkFace,268,Gd,TA,PConc
+177,1Fam,1.5Fin,5,5,1958,1958,Gable,CompShg,MetalSd,MetalSd,None,0,Gd,Gd,CBlock
+178,1Fam,1Story,9,5,2008,2009,Hip,CompShg,VinylSd,VinylSd,Stone,748,Ex,TA,PConc
+179,1Fam,1Story,5,6,1923,2006,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,Gd,TA,CBlock
+180,Twnhs,2Story,6,5,2000,2000,Gable,CompShg,MetalSd,MetalSd,BrkFace,456,Gd,TA,PConc
+181,1Fam,2Story,7,6,1920,1950,Gable,CompShg,Stucco,Stucco,None,0,TA,TA,BrkTil
+182,1Fam,1Story,5,6,1957,2006,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,98,TA,TA,PConc
+183,1Fam,1.5Fin,7,5,2003,2003,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+184,1Fam,1.5Fin,5,8,1908,1991,Gable,CompShg,AsbShng,Plywood,None,0,TA,TA,PConc
+185,1Fam,2.5Fin,10,9,1892,1993,Gable,WdShngl,Wd Sdng,Wd Sdng,None,0,Gd,Gd,BrkTil
+186,1Fam,SLvl,7,5,1990,1991,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,PConc
+187,1Fam,1.5Fin,5,7,1916,1987,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+188,Duplex,SFoyer,5,5,1979,1979,Gable,CompShg,Plywood,Plywood,Stone,275,TA,TA,CBlock
+189,TwnhsE,1Story,8,5,2001,2002,Gable,CompShg,CemntBd,CmentBd,None,0,Gd,TA,PConc
+190,1Fam,2Story,8,8,1932,1994,Hip,CompShg,BrkFace,BrkFace,None,0,Gd,TA,CBlock
+191,1Fam,2Story,7,9,1972,2004,Gable,CompShg,HdBoard,HdBoard,BrkFace,138,TA,TA,CBlock
+192,1Fam,1Story,7,5,1999,1999,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+193,Twnhs,2Story,7,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,Stone,50,Gd,TA,PConc
+194,1Fam,1Story,5,7,1972,1972,Hip,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+195,Twnhs,2Story,6,6,1976,1976,Gable,CompShg,Plywood,Brk Cmn,None,0,TA,TA,CBlock
+196,1Fam,1Story,7,5,2007,2007,Hip,CompShg,CemntBd,CmentBd,Stone,205,Ex,TA,PConc
+197,1Fam,2Story,8,4,1918,1990,Gable,CompShg,Stucco,Stucco,None,0,Gd,Gd,PConc
+198,1Fam,2.5Fin,6,6,1912,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+199,1Fam,1Story,8,5,2004,2005,Hip,CompShg,VinylSd,VinylSd,BrkFace,262,Gd,TA,PConc
+200,1Fam,1Story,4,5,2003,2004,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+201,1Fam,1Story,6,6,1977,1977,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+202,1Fam,1.5Fin,6,6,1924,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Gd,BrkTil
+203,TwnhsE,1Story,6,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,BrkFace,205,Gd,TA,PConc
+204,1Fam,1.5Fin,5,7,1947,1950,Gable,CompShg,AsbShng,AsbShng,None,0,TA,TA,CBlock
+205,1Fam,1Story,7,5,1990,1990,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,PConc
+206,1Fam,1Story,5,5,1962,1962,Gable,CompShg,HdBoard,HdBoard,None,0,TA,Gd,CBlock
+207,1Fam,1Story,4,5,1960,1960,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,PConc
+208,1Fam,2Story,7,5,1988,1989,Gable,CompShg,Plywood,Plywood,BrkFace,128,Gd,TA,CBlock
+209,1Fam,1Story,6,7,1964,1964,Hip,CompShg,HdBoard,HdBoard,Stone,260,TA,TA,CBlock
+210,1Fam,1Story,5,6,1925,1950,Gable,CompShg,Stucco,Stucco,None,0,TA,TA,CBlock
+211,1Fam,1Story,6,5,2009,2009,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+212,1Fam,2Story,7,5,2009,2009,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+213,1Fam,1Story,5,5,1995,1995,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+214,1Fam,2Story,6,7,1977,1977,Gable,CompShg,HdBoard,HdBoard,BrkFace,153,TA,TA,CBlock
+215,1Fam,1Story,5,6,1957,1996,Gable,CompShg,HdBoard,HdBoard,BrkFace,64,TA,TA,CBlock
+216,1Fam,1Story,7,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,BrkFace,266,Gd,TA,PConc
+217,1Fam,2Story,4,4,1925,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+218,1Fam,1.5Fin,7,9,1939,2006,Gable,CompShg,VinylSd,VinylSd,BrkFace,312,Gd,Gd,CBlock
+219,TwnhsE,1Story,7,5,2005,2006,Gable,CompShg,VinylSd,VinylSd,BrkFace,16,Gd,TA,PConc
+220,1Fam,1Story,7,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+221,1Fam,2Story,6,5,2002,2002,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+222,1Fam,2Story,6,6,1975,1975,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+223,1Fam,1Story,4,6,1971,1971,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+224,1Fam,1Story,10,5,2003,2003,Hip,CompShg,VinylSd,VinylSd,BrkFace,922,Ex,TA,PConc
+225,Twnhs,2Story,5,5,1971,1971,Gable,CompShg,HdBoard,HdBoard,BrkFace,142,TA,TA,CBlock
+226,1Fam,2Story,7,5,1995,1995,Gable,CompShg,VinylSd,VinylSd,BrkFace,290,Gd,TA,PConc
+227,Twnhs,2Story,6,6,1970,1970,Gable,CompShg,HdBoard,HdBoard,BrkFace,127,TA,TA,CBlock
+228,1Fam,1Story,5,5,1967,1967,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+229,TwnhsE,1Story,7,5,2005,2006,Gable,CompShg,VinylSd,VinylSd,BrkFace,16,Gd,TA,PConc
+230,1Fam,1Story,6,6,1959,1959,Hip,CompShg,MetalSd,MetalSd,BrkFace,220,TA,TA,CBlock
+231,1Fam,2Story,8,5,1995,1996,Gable,CompShg,VinylSd,VinylSd,BrkFace,506,Gd,TA,PConc
+232,Twnhs,2Story,6,5,1972,1972,Gable,CompShg,HdBoard,HdBoard,BrkFace,297,TA,TA,CBlock
+233,1Fam,1Story,5,6,1976,1976,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+234,1Fam,2Story,6,5,2002,2002,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+235,TwnhsE,2Story,6,3,1971,1971,Gable,CompShg,HdBoard,HdBoard,BrkFace,604,TA,TA,CBlock
+236,1Fam,1Story,7,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,BrkFace,98,Gd,TA,PConc
+237,1Fam,2Story,7,7,1993,2003,Gable,CompShg,HdBoard,HdBoard,None,0,Gd,TA,PConc
+238,1Fam,1Story,8,5,2007,2007,Hip,CompShg,VinylSd,VinylSd,BrkFace,254,Ex,TA,PConc
+239,1Fam,1.5Fin,6,4,1945,1950,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+240,1Fam,1Story,8,5,2008,2008,Gable,CompShg,VinylSd,VinylSd,Stone,36,Gd,TA,PConc
+241,1Fam,1Story,5,9,1945,1997,Gable,CompShg,VinylSd,VinylSd,None,0,TA,Gd,CBlock
+242,1Fam,1.5Fin,5,4,1900,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+243,TwnhsE,2Story,6,6,1980,1980,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+244,1Fam,2Story,7,5,1994,2002,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+245,1Fam,1Story,7,5,1988,1988,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,102,TA,TA,CBlock
+246,2fmCon,2Story,6,8,1910,1950,Gable,CompShg,AsbShng,AsbShng,None,0,TA,Fa,Stone
+247,1Fam,1Story,6,5,1954,1954,Hip,CompShg,Wd Sdng,BrkFace,None,0,TA,TA,CBlock
+248,1Fam,2Story,7,5,2003,2003,Gable,CompShg,VinylSd,VinylSd,BrkFace,101,Gd,TA,PConc
+249,1Fam,1.5Fin,6,7,1958,2006,Gable,CompShg,Wd Sdng,HdBoard,BrkCmn,472,Gd,TA,CBlock
+250,1Fam,1Story,3,2,1940,1966,Gable,CompShg,Wd Sdng,Plywood,None,0,TA,Po,CBlock
+251,TwnhsE,1Story,8,5,2006,2007,Hip,CompShg,VinylSd,VinylSd,Stone,481,Gd,TA,PConc
+252,1Fam,2Story,6,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+253,1Fam,SLvl,6,7,1964,1991,Hip,CompShg,HdBoard,HdBoard,BrkFace,108,TA,TA,CBlock
+254,1Fam,1Story,5,6,1957,1957,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Gd,CBlock
+255,1Fam,2Story,7,5,1999,1999,Gable,CompShg,VinylSd,VinylSd,BrkFace,302,Gd,TA,PConc
+256,1Fam,2Story,6,5,2003,2003,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+257,1Fam,1Story,7,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,Stone,180,Gd,TA,PConc
+258,1Fam,2Story,7,5,2001,2001,Gable,CompShg,VinylSd,VinylSd,BrkFace,172,Gd,TA,PConc
+259,1Fam,1Story,5,5,1956,1956,Gable,CompShg,BrkFace,BrkFace,None,0,TA,TA,PConc
+260,1Fam,SLvl,6,5,1962,1962,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,399,TA,TA,CBlock
+261,1Fam,2Story,8,5,2007,2007,Gable,CompShg,CemntBd,CmentBd,Stone,270,Gd,TA,PConc
+262,1Fam,SLvl,6,7,1977,1995,Gable,CompShg,HdBoard,Plywood,BrkFace,46,TA,TA,CBlock
+263,1Fam,1.5Fin,5,7,1929,2001,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+264,1Fam,1Story,5,5,1925,2004,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+265,1Fam,1Story,6,6,1981,1981,Gable,CompShg,MetalSd,MetalSd,BrkFace,210,TA,Gd,CBlock
+266,1Fam,2Story,6,5,1997,1997,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+267,1Fam,2.5Fin,5,8,1939,1997,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,PConc
+268,1Fam,1Story,5,6,1940,1955,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+269,1Fam,1Story,6,7,1976,1976,Hip,CompShg,HdBoard,HdBoard,BrkFace,174,TA,Gd,CBlock
+270,1Fam,2Story,8,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+271,1Fam,1Story,7,7,1954,2005,Flat,Membran,Plywood,Plywood,None,0,TA,TA,CBlock
+272,1Fam,2Story,8,7,1999,2007,Gable,CompShg,VinylSd,VinylSd,BrkFace,348,Gd,TA,PConc
+273,1Fam,1Story,6,6,1958,1988,Hip,CompShg,Wd Sdng,Wd Sdng,BrkCmn,183,TA,TA,CBlock
+274,1Fam,1Story,5,7,1982,1982,Gable,CompShg,HdBoard,ImStucc,None,0,TA,TA,CBlock
+275,1Fam,1.5Fin,7,7,1925,2007,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,Gd,Gd,BrkTil
+276,1Fam,1Story,7,5,2003,2003,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+277,1Fam,1Story,4,5,1951,1951,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+278,1Fam,1Story,9,5,2006,2007,Gable,CompShg,CemntBd,CmentBd,BrkFace,315,Ex,TA,PConc
+279,1Fam,2Story,7,5,1977,1977,Hip,CompShg,Plywood,Plywood,BrkFace,299,TA,TA,CBlock
+280,1Fam,2Story,7,6,1989,1989,Gable,CompShg,Plywood,Plywood,BrkFace,340,Gd,TA,CBlock
+281,1Fam,1Story,6,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,Stone,68,Gd,TA,PConc
+282,Twnhs,1Story,7,5,2007,2008,Gable,CompShg,VinylSd,VinylSd,Stone,166,Gd,TA,PConc
+283,1Fam,1Story,8,5,2008,2009,Gable,CompShg,VinylSd,VinylSd,Stone,72,Gd,TA,PConc
+284,TwnhsE,1Story,6,5,1992,1992,Gable,CompShg,Plywood,ImStucc,None,0,Gd,TA,PConc
+285,TwnhsE,2Story,7,5,2006,2007,Gable,CompShg,MetalSd,MetalSd,None,0,Gd,TA,PConc
+286,1Fam,1.5Fin,6,7,1962,1981,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+287,1Fam,1Story,4,4,1971,1971,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+288,1Fam,1Story,5,5,1967,1967,Gable,CompShg,MetalSd,MetalSd,BrkFace,31,TA,Gd,CBlock
+289,1Fam,2Story,6,7,1915,2003,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+290,1Fam,2Story,8,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+291,2fmCon,2Story,5,6,1912,2000,Gable,CompShg,VinylSd,VinylSd,None,0,TA,Fa,PConc
+292,1Fam,1.5Fin,5,4,1949,2008,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+293,1Fam,2Story,7,7,1977,1994,Gable,CompShg,Plywood,Plywood,BrkFace,34,TA,TA,CBlock
+294,1Fam,1Story,6,5,1953,1953,Hip,CompShg,HdBoard,HdBoard,Stone,238,TA,TA,CBlock
+295,1Fam,SLvl,6,6,1984,1984,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+296,1Fam,1.5Fin,5,5,1950,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+297,1Fam,2Story,7,5,1997,1998,Hip,CompShg,VinylSd,VinylSd,BrkFace,1600,Gd,TA,PConc
+298,1Fam,2Story,6,6,1968,1968,Mansard,CompShg,HdBoard,AsphShn,BrkFace,365,Gd,TA,CBlock
+299,1Fam,1Story,6,8,1950,2004,Gable,CompShg,HdBoard,HdBoard,None,0,TA,Gd,CBlock
+300,2fmCon,1Story,5,5,1953,1953,Hip,CompShg,MetalSd,MetalSd,BrkFace,56,TA,TA,CBlock
+301,1Fam,2Story,8,5,1998,1999,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+302,1Fam,1Story,7,5,2001,2002,Gable,CompShg,VinylSd,VinylSd,BrkFace,150,Gd,TA,PConc
+303,1Fam,1Story,5,7,1972,1972,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+304,1Fam,2.5Fin,7,9,1880,2002,Gable,CompShg,CemntBd,CmentBd,None,0,TA,TA,BrkTil
+305,1Fam,1Story,8,5,2004,2005,Gable,CompShg,CemntBd,CmentBd,Stone,246,Gd,TA,PConc
+306,1Fam,2Story,7,5,1990,1991,Gable,CompShg,HdBoard,Plywood,BrkFace,246,Gd,TA,CBlock
+307,1Fam,1.5Fin,6,7,1920,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Fa,CBlock
+308,1Fam,1Story,4,5,1940,1950,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+309,1Fam,1Story,9,5,2003,2004,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+310,1Fam,2Story,6,5,1993,1994,Gable,CompShg,HdBoard,HdBoard,BrkFace,112,TA,TA,PConc
+311,1Fam,1Story,6,6,1948,2002,Gable,CompShg,VinylSd,VinylSd,None,0,TA,Gd,CBlock
+312,2fmCon,1.5Fin,5,7,1939,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+313,1Fam,1Story,7,5,1965,1965,Hip,CompShg,BrkFace,BrkFace,None,0,TA,TA,CBlock
+314,1Fam,2Story,7,7,1925,1990,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+315,1Fam,2Story,7,5,2004,2005,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+316,1Fam,2Story,7,7,1980,1980,Gable,CompShg,CemntBd,CmentBd,BrkFace,278,Gd,TA,CBlock
+317,1Fam,2Story,8,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+318,1Fam,2Story,7,5,1993,1993,Gable,CompShg,HdBoard,HdBoard,BrkFace,256,Gd,TA,PConc
+319,1Fam,SLvl,7,5,1980,1980,Gable,CompShg,Plywood,Plywood,BrkFace,225,TA,TA,CBlock
+320,1Fam,2Story,9,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,Stone,370,TA,TA,PConc
+321,1Fam,2Story,8,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,BrkFace,388,Gd,TA,PConc
+322,1Fam,2Story,7,5,1986,1987,Gable,CompShg,Plywood,Plywood,BrkFace,172,Gd,TA,CBlock
+323,1Fam,1Story,3,8,1955,2005,Gable,CompShg,VinylSd,VinylSd,None,0,TA,Gd,CBlock
+324,1Fam,SLvl,7,7,1967,2007,Mansard,WdShake,Wd Sdng,Wd Sdng,BrkFace,300,Gd,Gd,CBlock
+325,1Fam,1.5Unf,5,6,1941,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+326,TwnhsE,1Story,8,5,1993,1993,Gable,CompShg,BrkFace,BrkFace,None,0,Gd,TA,PConc
+327,1Fam,1Story,6,5,1960,1960,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,175,TA,TA,CBlock
+328,1Fam,2.5Unf,6,6,1916,1994,Gable,CompShg,Wd Sdng,Wd Shng,None,0,TA,TA,BrkTil
+329,1Fam,2Story,5,5,1920,1950,Gable,CompShg,Wd Sdng,Wd Shng,None,0,TA,TA,PConc
+330,Duplex,1Story,5,4,1964,1964,Gable,CompShg,HdBoard,HdBoard,BrkFace,84,TA,TA,CBlock
+331,1Fam,1Story,5,6,1958,1992,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+332,1Fam,1Story,8,5,2003,2004,Gable,CompShg,VinylSd,VinylSd,BrkFace,296,Gd,TA,PConc
+333,TwnhsE,1Story,7,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,Stone,146,Gd,TA,PConc
+334,1Fam,2Story,6,5,1998,1998,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+335,2fmCon,1.5Fin,5,6,1965,1965,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+336,1Fam,1Story,9,5,2005,2006,Hip,CompShg,VinylSd,VinylSd,Stone,200,Gd,TA,PConc
+337,1Fam,1Story,7,5,2002,2003,Gable,CompShg,VinylSd,VinylSd,BrkFace,113,Gd,TA,PConc
+338,1Fam,1Story,7,7,1984,1998,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,Gd,TA,CBlock
+339,1Fam,1Story,6,7,1958,1998,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,176,TA,TA,CBlock
+340,1Fam,2Story,8,5,2002,2002,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+341,1Fam,1Story,4,4,1950,1950,Gable,CompShg,Wd Sdng,AsbShng,None,0,Fa,Fa,CBlock
+342,Duplex,1Story,3,4,1949,1950,Gable,CompShg,Stucco,Stucco,BrkFace,340,TA,TA,Slab
+343,TwnhsE,1Story,9,5,2005,2005,Hip,CompShg,MetalSd,MetalSd,BrkFace,616,Ex,TA,PConc
+344,TwnhsE,2Story,5,3,1976,1976,Gable,CompShg,CemntBd,CmentBd,None,0,TA,TA,CBlock
+345,1Fam,1.5Fin,6,5,1939,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil
+346,1Fam,1Story,6,8,1960,1998,Hip,CompShg,MetalSd,MetalSd,None,0,TA,Gd,CBlock
+347,1Fam,1Story,6,5,1960,1960,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,30,TA,TA,CBlock
+348,Twnhs,2Story,7,5,2003,2004,Gable,CompShg,VinylSd,Wd Shng,Stone,106,Gd,TA,PConc
+349,1Fam,2Story,9,5,2005,2006,Hip,CompShg,CemntBd,CmentBd,BrkFace,870,Ex,TA,PConc
+350,TwnhsE,1Story,9,5,2007,2007,Hip,CompShg,MetalSd,MetalSd,BrkFace,362,Ex,TA,PConc
+351,1Fam,1Story,7,5,1986,1986,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,PConc
+352,1Fam,1.5Fin,5,6,1941,1950,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+353,1Fam,1Story,6,8,1928,2003,Gable,CompShg,VinylSd,VinylSd,None,0,TA,Gd,BrkTil
+354,1Fam,1.5Fin,6,5,1940,2000,Gable,CompShg,Wd Sdng,MetalSd,None,0,TA,TA,CBlock
+355,1Fam,1Story,6,5,1995,1995,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,Gd,PConc
+356,1Fam,1Story,6,6,1992,1992,Gable,CompShg,HdBoard,HdBoard,BrkFace,106,TA,TA,PConc
+357,TwnhsE,1Story,5,5,1976,1976,Gable,CompShg,CemntBd,CmentBd,None,0,TA,TA,PConc
+358,1Fam,SLvl,5,4,1958,1958,Hip,CompShg,Wd Sdng,ImStucc,BrkFace,120,TA,TA,CBlock
+359,1Fam,2Story,8,5,1998,1998,Gable,CompShg,VinylSd,VinylSd,BrkFace,530,Gd,TA,PConc
+360,1Fam,SFoyer,6,6,1978,1978,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+361,1Fam,1.5Fin,5,5,1940,1982,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+362,1Fam,SFoyer,7,5,2003,2003,Gable,CompShg,HdBoard,HdBoard,BrkFace,500,Gd,TA,Slab
+363,Twnhs,2Story,6,8,1972,2007,Gable,CompShg,HdBoard,HdBoard,BrkFace,510,TA,TA,CBlock
+364,1Fam,2Story,6,5,1976,1976,Gable,CompShg,HdBoard,HdBoard,BrkFace,120,TA,TA,PConc
+365,1Fam,2Story,5,7,1920,1997,Hip,CompShg,VinylSd,VinylSd,None,0,TA,Gd,CBlock
+366,1Fam,1Story,6,5,1963,1963,Gable,CompShg,Plywood,Plywood,BrkFace,247,TA,TA,CBlock
+367,1Fam,SLvl,6,5,1962,1962,Gable,Tar&Grv,Plywood,Plywood,BrkFace,305,TA,TA,CBlock
+368,1Fam,1Story,5,6,1954,1954,Gable,CompShg,HdBoard,HdBoard,BrkFace,200,TA,TA,PConc
+369,1Fam,1Story,5,7,1959,2006,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,Gd,CBlock
+370,1Fam,2Story,6,5,2000,2000,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+371,1Fam,1.5Fin,4,4,1959,1959,Gable,CompShg,WdShing,Plywood,None,0,TA,TA,CBlock
+372,TwnhsE,1Story,6,5,1984,1984,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+373,1Fam,1Story,5,6,1953,1953,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,PConc
+374,1Fam,2Story,7,5,2003,2004,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+375,1Fam,1Story,1,1,1922,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,Fa,Fa,BrkTil
+376,1Fam,SFoyer,5,5,1996,1996,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+377,1Fam,2Story,8,5,2004,2005,Gable,CompShg,CemntBd,CmentBd,None,0,Gd,TA,PConc
+378,1Fam,1Story,9,2,2010,2010,Hip,CompShg,VinylSd,VinylSd,Stone,350,Gd,TA,PConc
+379,1Fam,2Story,6,5,2000,2000,Gable,CompShg,VinylSd,VinylSd,BrkFace,16,TA,TA,PConc
+380,1Fam,1.5Fin,5,6,1924,1950,Gable,CompShg,BrkFace,Wd Sdng,None,0,TA,TA,BrkTil
+381,1Fam,1Story,7,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+382,1Fam,2Story,7,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+383,1Fam,1.5Unf,6,3,1928,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+384,1Fam,2Story,6,5,1992,1992,Gable,CompShg,HdBoard,HdBoard,None,0,Gd,TA,PConc
+385,TwnhsE,1Story,8,5,2004,2005,Gable,CompShg,VinylSd,VinylSd,BrkFace,16,Gd,TA,PConc
+386,1Fam,1.5Fin,5,3,1910,1996,Gambrel,CompShg,Wd Sdng,VinylSd,None,0,TA,Fa,PConc
+387,1Fam,SLvl,6,6,1976,1976,Hip,CompShg,MetalSd,MetalSd,BrkFace,255,TA,TA,CBlock
+388,1Fam,1Story,7,5,1999,2000,Gable,CompShg,VinylSd,VinylSd,BrkFace,125,Gd,TA,PConc
+389,1Fam,2Story,10,5,2007,2008,Gable,CompShg,VinylSd,VinylSd,Stone,272,Ex,TA,PConc
+390,1Fam,1.5Fin,5,8,1900,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil
+391,1Fam,2Story,6,5,2001,2002,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+392,1Fam,1Story,5,7,1959,1959,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,Slab
+393,1Fam,1Story,4,5,1941,1950,Gable,CompShg,WdShing,Wd Shng,None,0,TA,TA,CBlock
+394,1Fam,1.5Fin,5,6,1940,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+395,1Fam,1Story,5,6,1956,1956,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+396,1Fam,1Story,5,5,1972,1972,Hip,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+397,1Fam,2Story,5,5,1962,1962,Gable,CompShg,VinylSd,VinylSd,BrkFace,288,TA,TA,CBlock
+398,1Fam,1Story,5,2,1920,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Fa,BrkTil
+399,1Fam,2Story,7,5,2006,2007,Gable,CompShg,CemntBd,CmentBd,Stone,100,Gd,TA,PConc
+400,TwnhsE,1Story,8,5,1996,1996,Gable,CompShg,BrkFace,BrkFace,None,0,Gd,TA,PConc
+401,1Fam,1Story,7,5,2005,2005,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+402,1Fam,1Story,5,8,1940,1997,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,PConc
+403,1Fam,2Story,8,5,1998,1998,Hip,CompShg,VinylSd,VinylSd,BrkFace,650,Gd,TA,PConc
+404,1Fam,2Story,6,5,1995,1996,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,PConc
+405,1Fam,1Story,4,4,1976,1993,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+406,1Fam,1.5Fin,6,5,1936,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil
+407,1Fam,2Story,6,7,1915,1976,Gable,CompShg,Wd Sdng,Plywood,None,0,TA,TA,BrkTil
+408,1Fam,2Story,7,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,BrkFace,350,Gd,TA,PConc
+409,1Fam,2Story,8,5,2007,2008,Gable,CompShg,VinylSd,VinylSd,Stone,100,Gd,TA,PConc
+410,1Fam,1Story,5,3,1958,1958,Gable,CompShg,BrkComm,Brk Cmn,None,0,TA,Fa,CBlock
+411,2fmCon,1Story,5,5,1955,1955,Hip,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+412,1Fam,1Story,7,5,2009,2009,Gable,CompShg,MetalSd,MetalSd,Stone,432,Ex,TA,PConc
+413,1Fam,1Story,5,6,1927,1950,Gable,CompShg,WdShing,Wd Shng,None,0,TA,TA,CBlock
+414,1Fam,2Story,7,5,1993,1993,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+415,1Fam,1Story,7,5,2007,2007,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+416,1Fam,2Story,6,7,1978,1978,Hip,CompShg,HdBoard,HdBoard,BrkFace,203,TA,TA,CBlock
+417,1Fam,2Story,6,6,1918,1950,Hip,CompShg,Wd Sdng,Stucco,None,0,TA,TA,BrkTil
+418,1Fam,1.5Fin,5,6,1940,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil
+419,1Fam,1Story,5,6,1968,1968,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+420,Duplex,SFoyer,7,5,1997,1998,Gable,CompShg,VinylSd,VinylSd,BrkFace,200,TA,Gd,PConc
+421,1Fam,1Story,6,7,1977,2000,Gable,CompShg,CemntBd,CmentBd,Stone,126,Gd,TA,CBlock
+422,1Fam,1Story,5,5,1954,1954,Hip,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+423,1Fam,2Story,8,5,1998,1998,Gable,CompShg,VinylSd,VinylSd,BrkFace,473,Gd,TA,PConc
+424,1Fam,1Story,6,5,1956,1956,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,74,TA,TA,CBlock
+425,1Fam,2Story,7,8,1946,1992,Gable,CompShg,HdBoard,HdBoard,None,0,TA,Gd,CBlock
+426,1Fam,SLvl,7,5,1989,1989,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,145,Gd,TA,PConc
+427,1Fam,1Story,4,6,1957,1957,Hip,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+428,1Fam,1Story,7,5,2007,2007,Gable,CompShg,VinylSd,VinylSd,BrkFace,108,Gd,TA,PConc
+429,1Fam,1Story,6,5,1988,1988,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+430,Twnhs,2Story,6,5,1971,1971,Gable,CompShg,HdBoard,HdBoard,BrkFace,232,TA,TA,CBlock
+431,1Fam,1.5Fin,6,7,1920,1998,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil
+432,TwnhsE,2Story,5,5,1971,1971,Gable,CompShg,HdBoard,HdBoard,BrkFace,376,TA,TA,CBlock
+433,1Fam,2Story,6,5,1997,1998,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+434,Twnhs,SFoyer,4,7,1972,1972,Gable,CompShg,CemntBd,CmentBd,None,0,TA,Gd,CBlock
+435,1Fam,2Story,7,6,1996,1996,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+436,1Fam,1.5Fin,6,8,1920,1950,Gable,CompShg,Stucco,Stucco,None,0,TA,TA,BrkTil
+437,1Fam,1.5Unf,6,7,1926,2004,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,Gd,TA,PConc
+438,1Fam,1Story,5,6,1913,2002,Gable,CompShg,WdShing,Stucco,None,0,TA,TA,PConc
+439,1Fam,1.5Fin,6,8,1920,2000,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+440,1Fam,1Story,10,5,2008,2008,Hip,CompShg,VinylSd,VinylSd,Stone,200,Ex,TA,PConc
+441,Duplex,1Story,4,4,1955,1955,Gable,CompShg,VinylSd,VinylSd,BrkFace,270,TA,TA,CBlock
+442,1Fam,1.5Fin,5,7,1930,1992,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,PConc
+443,TwnhsE,1Story,7,5,2006,2007,Gable,CompShg,WdShing,Wd Shng,BrkFace,72,Gd,TA,PConc
+444,1Fam,2Story,7,5,1994,1995,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,Gd,PConc
+445,1Fam,1Story,6,5,1956,1956,Hip,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+446,1Fam,1Story,6,6,1966,2002,Gable,CompShg,BrkFace,Plywood,None,0,Gd,TA,CBlock
+447,1Fam,2Story,7,5,1998,1999,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+448,1Fam,1.5Fin,6,6,1937,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil
+449,1Fam,1.5Fin,3,7,1948,2002,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Gd,CBlock
+450,1Fam,1Story,6,8,1930,2005,Hip,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+451,1Fam,1Story,7,5,1975,1975,Gable,WdShngl,Plywood,Plywood,None,0,TA,TA,CBlock
+452,1Fam,2Story,6,5,1996,1997,Hip,CompShg,VinylSd,VinylSd,BrkFace,42,Gd,TA,PConc
+453,1Fam,2Story,8,5,2008,2008,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+454,Duplex,1Story,5,5,1976,1976,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+455,1Fam,1Story,7,6,1973,1973,Hip,CompShg,HdBoard,HdBoard,BrkFace,320,TA,TA,CBlock
+456,1Fam,2Story,5,5,1916,1950,Gable,CompShg,AsbShng,AsbShng,None,0,TA,TA,BrkTil
+457,1Fam,1Story,4,6,1954,1994,Flat,Tar&Grv,Plywood,Plywood,None,0,TA,TA,CBlock
+458,1Fam,2Story,8,7,1925,1996,Hip,CompShg,Stucco,Wd Shng,None,0,TA,Gd,PConc
+459,1Fam,1.5Fin,5,4,1950,1950,Gable,CompShg,MetalSd,MetalSd,BrkCmn,161,TA,TA,CBlock
+460,1Fam,2Story,8,5,2009,2009,Gable,CompShg,VinylSd,VinylSd,Stone,110,Gd,TA,PConc
+461,1Fam,2Story,7,9,1936,2007,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,Gd,Gd,PConc
+462,1Fam,1Story,5,5,1965,1965,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+463,1Fam,2Story,6,7,1934,1995,Hip,CompShg,Stucco,Stucco,None,0,TA,TA,CBlock
+464,1Fam,1Story,5,5,1978,1978,Gable,CompShg,HdBoard,HdBoard,BrkFace,136,TA,TA,CBlock
+465,TwnhsE,1Story,7,5,2004,2004,Hip,CompShg,VinylSd,VinylSd,BrkFace,18,Gd,TA,PConc
+466,1Fam,1Story,7,5,1970,1970,Flat,Tar&Grv,Plywood,Plywood,None,0,TA,Gd,CBlock
+467,1Fam,2Story,5,7,1942,1995,Gable,CompShg,MetalSd,MetalSd,Stone,224,TA,TA,CBlock
+468,1Fam,1Story,8,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,Stone,248,Gd,TA,PConc
+469,1Fam,2Story,6,5,1993,1993,Gable,CompShg,HdBoard,HdBoard,BrkFace,120,Gd,TA,PConc
+470,TwnhsE,1Story,8,5,1985,1985,Gable,CompShg,HdBoard,HdBoard,None,0,Gd,TA,PConc
+471,1Fam,2Story,7,6,1977,1977,Mansard,WdShake,WdShing,Plywood,None,0,TA,TA,CBlock
+472,TwnhsE,SLvl,6,5,2005,2005,Gable,CompShg,VinylSd,VinylSd,BrkFace,80,TA,TA,PConc
+473,1Fam,1Story,8,5,2006,2007,Gable,CompShg,VinylSd,VinylSd,BrkFace,304,Gd,TA,PConc
+474,TwnhsE,1Story,8,5,2000,2000,Gable,CompShg,CemntBd,CmentBd,None,0,Gd,TA,PConc
+475,1Fam,1Story,5,6,1963,1963,Hip,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+476,1Fam,1Story,6,5,1997,1998,Gable,CompShg,VinylSd,VinylSd,BrkFace,215,TA,TA,PConc
+477,1Fam,2Story,9,5,2006,2006,Hip,CompShg,VinylSd,VinylSd,BrkFace,772,Ex,TA,PConc
+478,1Fam,1Story,8,5,2007,2008,Hip,CompShg,VinylSd,VinylSd,Stone,336,Gd,TA,PConc
+479,1Fam,1Story,4,7,1937,2000,Hip,CompShg,Stucco,Stucco,BrkCmn,435,TA,TA,BrkTil
+480,1Fam,1Story,9,5,2004,2005,Hip,CompShg,VinylSd,VinylSd,BrkFace,378,Gd,TA,PConc
+481,1Fam,1Story,9,5,2003,2004,Hip,CompShg,VinylSd,VinylSd,BrkFace,562,Gd,TA,PConc
+482,1Fam,2Story,7,8,1915,2005,Gable,CompShg,Stucco,Stucco,None,0,Gd,TA,PConc
+483,Twnhs,1Story,6,5,1998,1998,Hip,CompShg,VinylSd,VinylSd,BrkFace,116,TA,TA,PConc
+484,1Fam,1Story,5,7,1962,2001,Gable,CompShg,HdBoard,Plywood,None,0,TA,Gd,CBlock
+485,1Fam,1Story,5,7,1950,2007,Gable,CompShg,MetalSd,MetalSd,None,0,Gd,TA,CBlock
+486,1Fam,1Story,5,7,1965,1965,Hip,CompShg,MetalSd,MetalSd,BrkFace,168,TA,TA,CBlock
+487,1Fam,1Story,5,6,1971,1971,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+488,2fmCon,1.5Fin,5,4,1900,1970,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,Fa,CBlock
+489,Twnhs,SFoyer,4,8,1970,2002,Gable,CompShg,CemntBd,CmentBd,None,0,TA,Gd,CBlock
+490,TwnhsE,2Story,5,6,1976,1976,Gable,CompShg,CemntBd,CmentBd,None,0,TA,TA,PConc
+491,1Fam,1.5Fin,6,7,1941,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+492,1Fam,2Story,6,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+493,1Fam,1Story,5,6,1960,1960,Gable,CompShg,BrkFace,Wd Sdng,None,0,TA,TA,CBlock
+494,1Fam,1Story,5,8,1938,1996,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil
+495,1Fam,1Story,4,5,1920,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+496,1Fam,1Story,8,5,1992,1993,Hip,CompShg,BrkFace,BrkFace,None,0,Gd,TA,PConc
+497,1Fam,1.5Fin,7,6,1925,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,Gd,PConc
+498,1Fam,1Story,5,7,1967,2004,Hip,CompShg,HdBoard,HdBoard,BrkFace,89,TA,TA,PConc
+499,1Fam,1Story,5,7,1958,1985,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+500,Twnhs,2Story,6,5,1973,1973,Gable,CompShg,HdBoard,HdBoard,BrkFace,285,TA,TA,CBlock
+501,1Fam,2Story,7,5,2005,2005,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+502,1Fam,1Story,5,7,1965,1965,Hip,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+503,1Fam,1Story,7,8,1959,1997,Gable,CompShg,BrkFace,Wd Sdng,None,0,TA,TA,CBlock
+504,TwnhsE,2Story,6,5,1974,1974,Gable,CompShg,Plywood,Brk Cmn,None,0,TA,TA,CBlock
+505,Duplex,2Story,5,5,1952,1952,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,360,TA,TA,CBlock
+506,1Fam,2Story,8,5,1993,1994,Gable,CompShg,VinylSd,VinylSd,BrkFace,125,Gd,TA,PConc
+507,1Fam,1Story,6,5,2009,2009,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+508,1Fam,2Story,7,9,1928,2005,Gambrel,CompShg,MetalSd,MetalSd,None,0,TA,Ex,BrkTil
+509,1Fam,1Story,5,6,1959,1959,Gable,CompShg,MetalSd,MetalSd,BrkFace,132,TA,TA,CBlock
+510,1Fam,1Story,5,7,1951,2000,Hip,CompShg,Wd Sdng,Wd Sdng,BrkCmn,70,Gd,TA,CBlock
+511,TwnhsE,1Story,7,5,2005,2006,Gable,CompShg,VinylSd,VinylSd,Stone,94,Gd,TA,PConc
+512,1Fam,1Story,5,5,1958,1958,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+513,1Fam,1Story,6,5,1983,1983,Gable,CompShg,VinylSd,VinylSd,None,0,TA,Gd,PConc
+514,1Fam,1.5Unf,5,5,1926,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+515,1Fam,1Story,10,5,2009,2009,Hip,CompShg,CemntBd,CmentBd,BrkFace,305,Ex,TA,CBlock
+516,1Fam,SLvl,6,6,1972,1972,Gable,CompShg,HdBoard,HdBoard,BrkFace,333,TA,TA,CBlock
+517,1Fam,2Story,7,5,1996,1997,Gable,CompShg,VinylSd,VinylSd,BrkFace,921,Gd,TA,PConc
+518,1Fam,2Story,6,5,1998,1998,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+519,1Fam,2Story,7,9,1926,2004,Gambrel,CompShg,MetalSd,MetalSd,None,0,Gd,TA,BrkTil
+520,2fmCon,2Story,4,7,1900,2000,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil
+521,1Fam,1Story,6,6,1957,1957,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+522,1Fam,1.5Fin,6,7,1947,1950,Gable,CompShg,CemntBd,CmentBd,None,0,TA,Gd,CBlock
+523,1Fam,2Story,10,5,2007,2008,Hip,CompShg,CemntBd,CmentBd,Stone,762,Ex,TA,PConc
+524,1Fam,2Story,7,5,1996,1997,Gable,CompShg,VinylSd,VinylSd,BrkFace,594,Gd,TA,PConc
+525,1Fam,1Story,7,5,2005,2005,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+526,1Fam,1Story,5,7,1956,2000,Hip,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+527,1Fam,2Story,9,5,2008,2008,Hip,CompShg,VinylSd,VinylSd,Stone,268,Ex,TA,PConc
+528,1Fam,1Story,4,7,1920,2002,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+529,1Fam,1Story,6,3,1957,1975,Hip,CompShg,Wd Sdng,Stone,None,0,Gd,TA,PConc
+530,1Fam,SLvl,6,5,1988,1989,Gable,CompShg,HdBoard,HdBoard,BrkFace,219,Gd,TA,CBlock
+531,1Fam,2Story,6,8,1920,1999,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+532,1Fam,1Story,5,7,1955,2007,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,Slab
+533,1Fam,1Story,1,3,1946,1950,Gable,CompShg,VinylSd,VinylSd,None,0,Fa,Fa,Slab
+534,1Fam,2Story,8,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+535,2fmCon,2Story,5,7,1910,1991,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+536,1Fam,2Story,7,5,1998,1999,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+537,1Fam,1Story,4,5,1972,1972,Hip,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+538,1Fam,1Story,5,5,1968,1968,Hip,CompShg,Plywood,Plywood,BrkFace,188,TA,TA,CBlock
+539,1Fam,1Story,8,5,2001,2002,Gable,CompShg,VinylSd,VinylSd,BrkFace,479,Gd,TA,PConc
+540,1Fam,1Story,9,5,2006,2006,Hip,CompShg,VinylSd,VinylSd,BrkFace,584,Ex,TA,PConc
+541,1Fam,2Story,8,5,2000,2000,Gable,CompShg,VinylSd,VinylSd,BrkFace,72,Gd,TA,PConc
+542,1Fam,1Story,7,5,1998,1999,Hip,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+543,TwnhsE,SFoyer,7,5,1998,1998,Gable,CompShg,MetalSd,MetalSd,BrkFace,182,TA,TA,PConc
+544,1Fam,2Story,7,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+545,1Fam,1.5Fin,7,5,1988,1988,Gable,CompShg,HdBoard,HdBoard,BrkFace,178,Gd,Gd,PConc
+546,1Fam,1.5Fin,6,7,1923,1950,Gable,CompShg,BrkFace,Wd Sdng,None,0,TA,TA,BrkTil
+547,1Fam,SFoyer,5,7,1970,1970,Gable,CompShg,VinylSd,VinylSd,None,0,TA,Gd,CBlock
+548,1Fam,1Story,5,7,1955,1995,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Gd,CBlock
+549,1Fam,2Story,7,5,2003,2004,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+550,TwnhsE,1Story,6,6,1977,1977,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+551,1Fam,1Story,5,6,1957,1957,Hip,CompShg,BrkFace,BrkFace,None,0,TA,TA,CBlock
+552,1Fam,1Story,8,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,Stone,250,Gd,TA,PConc
+553,1Fam,1Story,4,5,1949,2003,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+554,1Fam,2Story,7,5,2003,2004,Gable,CompShg,VinylSd,VinylSd,BrkFace,292,Gd,TA,PConc
+555,1Fam,1.5Unf,5,6,1922,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil
+556,1Fam,1Story,5,5,1957,1957,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+557,1Fam,1.5Fin,4,6,1920,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+558,1Fam,2Story,7,5,1996,1997,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,PConc
+559,TwnhsE,1Story,7,5,2003,2004,Gable,CompShg,VinylSd,VinylSd,BrkFace,18,Gd,TA,PConc
+560,1Fam,1Story,5,6,1957,1996,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,180,TA,TA,CBlock
+561,1Fam,1Story,5,5,1974,1975,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+562,1Fam,1Story,5,6,1940,1969,Gable,CompShg,WdShing,Wd Shng,None,0,TA,TA,CBlock
+563,1Fam,1.5Fin,6,7,1918,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+564,1Fam,2Story,7,5,1992,2000,Gable,CompShg,HdBoard,HdBoard,None,0,Gd,TA,PConc
+565,1Fam,2Story,6,4,1915,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,PConc
+566,1Fam,2Story,9,5,2005,2007,Hip,CompShg,VinylSd,VinylSd,BrkFace,245,Gd,TA,PConc
+567,1Fam,1Story,7,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,BrkFace,168,Gd,TA,PConc
+568,1Fam,1.5Fin,8,8,1983,2009,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,Gd,TA,CBlock
+569,Duplex,SFoyer,5,5,1979,1979,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+570,Duplex,1Story,5,5,1965,1965,Gable,CompShg,HdBoard,HdBoard,BrkFace,108,TA,TA,CBlock
+571,1Fam,1Story,6,6,1959,1959,Gable,CompShg,WdShing,Wd Shng,BrkFace,207,TA,TA,CBlock
+572,1Fam,2Story,7,5,2009,2009,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+573,1Fam,SLvl,7,5,2000,2000,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+574,1Fam,SLvl,5,7,1971,2005,Gambrel,CompShg,MetalSd,AsphShn,BrkFace,82,TA,TA,CBlock
+575,1Fam,1.5Fin,5,5,1947,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+576,1Fam,1.5Fin,7,7,1928,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+577,1Fam,SLvl,5,6,1966,1966,Gable,CompShg,VinylSd,VinylSd,BrkFace,97,TA,TA,CBlock
+578,TwnhsE,2Story,7,5,2007,2007,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+579,1Fam,1.5Fin,5,5,1954,1954,Gable,CompShg,MetalSd,MetalSd,BrkFace,335,TA,TA,BrkTil
+580,1Fam,1Story,6,6,1960,1987,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,85,TA,TA,CBlock
+581,1Fam,1Story,8,5,2008,2009,Hip,CompShg,VinylSd,VinylSd,BrkFace,306,Ex,TA,PConc
+582,Duplex,SFoyer,6,5,1990,1990,Gable,CompShg,HdBoard,HdBoard,BrkFace,104,TA,Gd,CBlock
+583,1Fam,2.5Unf,10,9,1893,2000,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,Ex,Ex,BrkTil
+584,1Fam,1.5Fin,4,7,1935,1995,Gable,CompShg,AsbShng,AsbShng,None,0,TA,TA,BrkTil
+585,1Fam,1Story,8,5,2005,2006,Hip,CompShg,VinylSd,VinylSd,BrkFace,208,Gd,TA,PConc
+586,1Fam,1Story,6,7,1918,2000,Gable,CompShg,Stucco,Wd Shng,None,0,TA,Gd,BrkTil
+587,1Fam,SFoyer,5,6,1982,1982,Hip,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+588,1Fam,1Story,5,8,1968,2003,Flat,Tar&Grv,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+589,1Fam,1Story,5,6,1930,1960,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,BrkTil
+590,1Fam,2Story,7,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+591,1Fam,2Story,10,5,2008,2008,Gable,CompShg,CemntBd,CmentBd,Stone,420,Ex,TA,PConc
+592,1Fam,1Story,5,8,1982,2003,Gable,CompShg,HdBoard,HdBoard,None,0,TA,Gd,PConc
+593,TwnhsE,1Story,6,5,2003,2003,Gable,CompShg,VinylSd,VinylSd,BrkFace,170,Gd,TA,PConc
+594,1Fam,1Story,5,6,1975,1975,Hip,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+595,1Fam,1Story,8,5,2005,2006,Gable,CompShg,VinylSd,Other,BrkFace,238,Gd,TA,PConc
+596,1Fam,2Story,6,7,1910,1993,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+597,TwnhsE,1Story,7,5,2006,2007,Gable,CompShg,VinylSd,VinylSd,BrkFace,72,Gd,TA,PConc
+598,1Fam,1Story,5,6,1977,1977,Gable,CompShg,Plywood,Plywood,BrkFace,459,TA,TA,CBlock
+599,Twnhs,2Story,6,6,1980,1980,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Gd,CBlock
+600,1Fam,2Story,8,5,2005,2005,Gable,CompShg,VinylSd,VinylSd,BrkFace,280,Gd,TA,PConc
+601,1Fam,1.5Fin,6,6,1937,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,Gd,PConc
+602,1Fam,2Story,8,5,1992,1992,Gable,CompShg,HdBoard,HdBoard,None,0,Gd,TA,PConc
+603,TwnhsE,2Story,7,5,2004,2005,Gable,CompShg,MetalSd,MetalSd,None,0,Gd,TA,PConc
+604,1Fam,1Story,7,5,2002,2002,Gable,CompShg,VinylSd,VinylSd,BrkFace,99,Gd,TA,PConc
+605,1Fam,2Story,7,6,1965,1990,Gable,CompShg,HdBoard,HdBoard,BrkFace,176,TA,TA,CBlock
+606,1Fam,1Story,5,5,1996,1996,Gable,CompShg,VinylSd,VinylSd,None,0,TA,Gd,PConc
+607,1Fam,2Story,5,8,1948,2002,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Gd,CBlock
+608,1Fam,2Story,8,6,1934,1998,Gable,CompShg,BrkFace,Wd Sdng,None,0,TA,TA,PConc
+609,1Fam,1Story,4,5,1961,1961,Gable,CompShg,VinylSd,VinylSd,BrkCmn,192,TA,Fa,CBlock
+610,1Fam,2Story,9,5,2000,2000,Hip,CompShg,VinylSd,VinylSd,BrkFace,204,Gd,TA,PConc
+611,1Fam,SLvl,6,6,1978,1978,Gable,CompShg,HdBoard,HdBoard,BrkFace,233,TA,TA,CBlock
+612,1Fam,2Story,8,5,2001,2001,Gable,CompShg,VinylSd,VinylSd,BrkFace,108,Gd,TA,PConc
+613,1Fam,1Story,5,5,2007,2007,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+614,TwnhsE,SFoyer,4,6,1972,1972,Gable,CompShg,CemntBd,CmentBd,None,0,TA,TA,CBlock
+615,1Fam,SFoyer,6,7,1963,1963,Gable,CompShg,MetalSd,MetalSd,BrkFace,156,TA,Gd,PConc
+616,1Fam,2Story,6,5,2002,2003,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+617,1Fam,1.5Unf,6,6,1954,1954,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+618,1Fam,1Story,9,5,2007,2007,Hip,CompShg,CemntBd,CmentBd,BrkFace,452,Ex,TA,PConc
+619,1Fam,2Story,8,5,2003,2003,Hip,CompShg,VinylSd,VinylSd,Stone,226,Gd,TA,PConc
+620,1Fam,1Story,3,3,1914,1950,Gable,CompShg,Stucco,Stucco,None,0,TA,TA,BrkTil
+621,1Fam,2Story,6,7,1974,1997,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+622,1Fam,1Story,5,6,1977,1977,Gable,CompShg,Plywood,Plywood,BrkFace,153,TA,TA,CBlock
+623,TwnhsE,2Story,6,5,2000,2000,Gable,CompShg,MetalSd,MetalSd,BrkFace,513,Gd,TA,PConc
+624,1Fam,2Story,6,5,1972,1972,Gable,CompShg,VinylSd,VinylSd,None,288,TA,TA,CBlock
+625,1Fam,1Story,6,6,1962,1962,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,261,TA,TA,CBlock
+626,1Fam,1Story,5,5,1960,1978,Hip,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+627,1Fam,SLvl,6,6,1955,1972,Gable,CompShg,AsbShng,AsbShng,BrkFace,164,TA,TA,CBlock
+628,1Fam,2Story,5,5,1969,1969,Gable,CompShg,Plywood,Plywood,BrkFace,192,TA,TA,PConc
+629,1Fam,SLvl,6,5,1964,1964,Gable,WdShngl,Plywood,Wd Sdng,BrkFace,259,TA,TA,CBlock
+630,1Fam,2Story,5,6,1880,1991,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,BrkTil
+631,Twnhs,1Story,8,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,Stone,108,Gd,TA,PConc
+632,1Fam,1Story,7,5,1977,1977,Hip,CompShg,Plywood,Plywood,BrkFace,209,TA,Gd,CBlock
+633,1Fam,1Story,5,7,1954,2005,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+634,Duplex,SFoyer,6,5,1980,1980,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+635,2fmCon,2.5Fin,6,7,1914,1995,Hip,CompShg,VinylSd,VinylSd,None,0,Fa,TA,CBlock
+636,1Fam,1Story,2,3,1936,1950,Gable,CompShg,AsbShng,AsbShng,None,0,Fa,Fa,BrkTil
+637,2fmCon,1.5Fin,5,4,1954,1954,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+638,1Fam,1Story,5,7,1910,1950,Gable,CompShg,MetalSd,Wd Sdng,None,0,TA,TA,CBlock
+639,TwnhsE,1Story,8,5,2006,2006,Hip,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+640,TwnhsE,1Story,8,5,2003,2004,Hip,CompShg,MetalSd,MetalSd,BrkFace,472,Ex,TA,PConc
+641,1Fam,2Story,7,5,2001,2001,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+642,1Fam,SLvl,8,7,1972,1995,Gable,CompShg,Plywood,Wd Sdng,None,0,Gd,TA,CBlock
+643,1Fam,2Story,5,5,1969,1969,Mansard,CompShg,WdShing,HdBoard,BrkFace,263,TA,TA,CBlock
+644,1Fam,1Story,9,5,2009,2009,Gable,CompShg,CemntBd,CmentBd,Stone,162,Ex,TA,PConc
+645,1Fam,1Story,6,5,1971,1971,Hip,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+646,1Fam,1Story,5,5,1950,1950,Hip,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+647,1Fam,1Story,6,5,1953,1953,Hip,CompShg,Wd Sdng,Wd Sdng,Stone,216,TA,TA,CBlock
+648,1Fam,2Story,6,5,1966,1966,Gable,CompShg,MetalSd,MetalSd,BrkFace,351,TA,TA,CBlock
+649,Twnhs,SFoyer,4,6,1970,1970,Gable,CompShg,CemntBd,CmentBd,None,0,TA,TA,CBlock
+650,1Fam,2Story,7,6,2007,2007,Gable,CompShg,CemntBd,CmentBd,None,0,Gd,TA,PConc
+651,1Fam,2Story,4,5,1940,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+652,1Fam,2Story,7,5,1996,1996,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+653,1Fam,1.5Fin,6,7,1906,1995,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+654,1Fam,1Story,8,6,1995,1995,Hip,CompShg,MetalSd,MetalSd,BrkFace,660,Gd,Gd,PConc
+655,Twnhs,2Story,6,5,1971,1971,Gable,CompShg,HdBoard,ImStucc,BrkFace,381,TA,TA,CBlock
+656,1Fam,1Story,5,7,1959,2006,Gable,CompShg,HdBoard,HdBoard,BrkFace,54,Gd,TA,CBlock
+657,1Fam,2Story,7,6,1931,2000,Gable,CompShg,Stucco,Wd Shng,None,0,TA,Fa,BrkTil
+658,1Fam,1.5Fin,6,5,1948,1950,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+659,1Fam,1Story,5,7,1964,1999,Hip,CompShg,MetalSd,MetalSd,None,0,TA,Gd,PConc
+660,1Fam,2Story,7,7,1976,1976,Gable,CompShg,Plywood,Plywood,BrkFace,233,TA,TA,CBlock
+661,1Fam,2Story,8,7,1994,2005,Hip,CompShg,VinylSd,VinylSd,BrkFace,528,Gd,TA,PConc
+662,1Fam,1Story,6,3,1968,1968,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,216,TA,TA,CBlock
+663,1Fam,SFoyer,4,5,1972,1972,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+664,1Fam,1Story,8,5,2005,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+665,1Fam,2Story,8,5,2000,2000,Gable,CompShg,VinylSd,VinylSd,BrkFace,40,Gd,TA,PConc
+666,1Fam,2Story,6,5,1965,1979,Flat,Tar&Grv,Plywood,Plywood,BrkCmn,113,TA,Gd,CBlock
+667,1Fam,1Story,6,5,1994,1998,Gable,CompShg,HdBoard,HdBoard,BrkFace,258,TA,TA,PConc
+668,1Fam,1Story,5,6,1956,1987,Gable,CompShg,CemntBd,Wd Sdng,None,0,TA,TA,CBlock
+669,1Fam,1Story,4,5,1922,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil
+670,1Fam,2Story,6,5,2005,2005,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+671,1Fam,2Story,6,6,1925,1950,Gambrel,CompShg,Wd Sdng,Wd Sdng,None,0,TA,Gd,BrkTil
+672,1Fam,1Story,6,6,1977,1977,Gable,CompShg,Plywood,Plywood,None,0,Gd,TA,CBlock
+673,1Fam,1Story,6,7,1957,2004,Hip,CompShg,CemntBd,CmentBd,BrkFace,106,TA,TA,PConc
+674,1Fam,1Story,6,6,1965,1965,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+675,Twnhs,2Story,6,6,1978,1978,Gable,CompShg,Plywood,Brk Cmn,None,0,TA,TA,CBlock
+676,1Fam,2Story,4,2,1900,1950,Gable,CompShg,AsbShng,Stucco,None,0,TA,TA,BrkTil
+677,1Fam,1Story,5,8,1924,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,BrkTil
+678,1Fam,1Story,8,5,2008,2008,Hip,CompShg,VinylSd,VinylSd,Stone,464,Gd,TA,PConc
+679,1Fam,1Story,5,5,1961,1961,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,57,TA,TA,CBlock
+680,TwnhsE,1Story,6,5,1980,1980,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+681,1Fam,1.5Fin,5,5,1932,2000,Gable,CompShg,VinylSd,Stucco,None,0,TA,TA,BrkTil
+682,1Fam,1Story,6,5,1996,1997,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,PConc
+683,1Fam,1Story,9,5,2002,2002,Hip,CompShg,VinylSd,VinylSd,Stone,215,Gd,TA,PConc
+684,1Fam,2Story,7,5,1998,1998,Gable,CompShg,VinylSd,VinylSd,BrkFace,30,Gd,TA,PConc
+685,TwnhsE,2Story,7,5,1984,1984,Gable,CompShg,HdBoard,HdBoard,None,0,Gd,TA,CBlock
+686,1Fam,2Story,7,6,2007,2007,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+687,TwnhsE,2Story,7,5,2004,2004,Gable,CompShg,MetalSd,MetalSd,None,0,Gd,TA,PConc
+688,1Fam,1Story,8,6,2007,2007,Gable,CompShg,MetalSd,MetalSd,BrkFace,0,Gd,TA,PConc
+689,TwnhsE,1Story,6,5,2005,2006,Gable,CompShg,VinylSd,VinylSd,Stone,256,Gd,TA,PConc
+690,TwnhsE,1Story,6,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,BrkFace,147,Gd,TA,PConc
+691,1Fam,2Story,10,6,1994,1995,Gable,WdShngl,HdBoard,HdBoard,BrkFace,1170,Ex,TA,PConc
+692,1Fam,2Story,7,5,1989,1990,Hip,CompShg,MetalSd,MetalSd,BrkFace,293,Gd,TA,PConc
+693,1Fam,1Story,5,6,1921,1968,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil
+694,1Fam,1.5Fin,5,6,1936,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,Fa,BrkTil
+695,1Fam,1Story,6,6,1987,1987,Gable,CompShg,HdBoard,HdBoard,BrkFace,72,TA,TA,CBlock
+696,1Fam,1Story,5,7,1921,1950,Gable,CompShg,Wd Sdng,Wd Shng,None,0,TA,TA,CBlock
+697,1Fam,1Story,5,7,1952,1952,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,PConc
+698,1Fam,1Story,5,8,1965,2009,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Gd,CBlock
+699,TwnhsE,1Story,7,5,2004,2004,Gable,CompShg,MetalSd,MetalSd,None,0,Gd,TA,PConc
+700,1Fam,1Story,8,5,2002,2002,Hip,CompShg,VinylSd,VinylSd,BrkFace,630,Gd,TA,PConc
+701,1Fam,1Story,7,5,1969,1969,Hip,CompShg,HdBoard,HdBoard,BrkFace,168,TA,TA,CBlock
+702,1Fam,2Story,8,5,2006,2006,Hip,CompShg,VinylSd,VinylSd,BrkFace,466,Ex,TA,PConc
+703,2fmCon,2Story,5,9,1900,1996,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,Gd,BrkTil
+704,1Fam,1Story,7,5,2004,2005,Gable,CompShg,VinylSd,VinylSd,BrkFace,109,Gd,TA,PConc
+705,2fmCon,2Story,4,5,1930,1950,Hip,CompShg,VinylSd,Wd Shng,None,0,Fa,Fa,Slab
+706,1Fam,1Story,7,5,1971,2002,Gable,CompShg,Plywood,Plywood,Stone,351,TA,TA,CBlock
+707,TwnhsE,1Story,8,5,2006,2006,Hip,CompShg,MetalSd,MetalSd,BrkFace,176,Gd,TA,PConc
+708,1Fam,2Story,7,5,2007,2007,Hip,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+709,1Fam,1Story,5,7,1966,1966,Gable,CompShg,HdBoard,HdBoard,BrkCmn,41,TA,TA,PConc
+710,1Fam,1Story,3,6,1935,2003,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,CBlock
+711,1Fam,1.5Fin,4,7,1900,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,Stone
+712,TwnhsE,1Story,8,5,1988,1989,Gable,CompShg,HdBoard,HdBoard,None,0,Gd,TA,PConc
+713,2fmCon,1Story,4,5,1970,1970,Gable,CompShg,HdBoard,HdBoard,BrkFace,160,TA,TA,CBlock
+714,1Fam,2Story,6,8,1976,2005,Gable,CompShg,HdBoard,Plywood,BrkFace,289,Gd,TA,CBlock
+715,1Fam,1Story,6,5,1974,1974,Hip,CompShg,HdBoard,HdBoard,BrkFace,174,TA,TA,CBlock
+716,1Fam,2Story,7,8,1890,1998,Gable,CompShg,Wd Sdng,VinylSd,None,0,TA,Gd,BrkTil
+717,1Fam,1Story,5,6,1973,2000,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+718,1Fam,2Story,7,5,1993,1994,Hip,CompShg,Wd Sdng,ImStucc,BrkFace,651,Gd,TA,PConc
+719,1Fam,1Story,5,6,1969,1969,Gable,CompShg,HdBoard,Plywood,None,0,TA,TA,CBlock
+720,1Fam,1Story,8,5,1985,1985,Gable,CompShg,HdBoard,HdBoard,None,0,Gd,TA,PConc
+721,TwnhsE,1Story,6,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,BrkFace,169,Gd,TA,PConc
+722,1Fam,1Story,4,7,1970,1970,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Gd,CBlock
+723,1Fam,1.5Fin,4,6,1954,1972,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,PConc
+724,1Fam,1Story,9,5,2007,2008,Hip,CompShg,CemntBd,CmentBd,Stone,340,Ex,TA,PConc
+725,1Fam,1Story,4,6,1970,1970,Gable,CompShg,HdBoard,Plywood,None,0,TA,TA,CBlock
+726,1Fam,1Story,6,9,1988,2007,Hip,CompShg,Wd Sdng,Plywood,BrkFace,260,Gd,Gd,CBlock
+727,1Fam,1Story,7,5,2007,2007,Gable,CompShg,VinylSd,VinylSd,Stone,82,Gd,TA,PConc
+728,Duplex,1Story,5,5,1958,1958,Gable,CompShg,VinylSd,VinylSd,BrkFace,95,TA,TA,CBlock
+729,1Fam,1.5Fin,4,5,1925,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+730,TwnhsE,1Story,8,5,1995,1996,Gable,CompShg,CemntBd,CmentBd,None,0,Gd,TA,PConc
+731,1Fam,SLvl,7,5,2003,2003,Gable,CompShg,VinylSd,VinylSd,BrkFace,442,Gd,TA,PConc
+732,1Fam,2Story,7,5,1998,1999,Gable,CompShg,VinylSd,VinylSd,BrkFace,202,Gd,TA,PConc
+733,1Fam,1Story,5,6,1961,1983,Hip,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+734,1Fam,1Story,5,5,1968,1968,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,PConc
+735,1Fam,2.5Unf,7,7,1914,1970,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+736,Duplex,1Story,3,4,1950,1950,Gable,CompShg,Stucco,Stone,None,0,TA,TA,CBlock
+737,1Fam,2Story,8,5,2005,2005,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+738,Duplex,1Story,5,5,1987,1988,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+739,1Fam,2Story,7,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+740,1Fam,2Story,5,7,1910,2002,Gable,CompShg,Wd Sdng,Wd Shng,None,0,TA,Gd,BrkTil
+741,1Fam,1Story,6,8,1961,1996,Hip,CompShg,HdBoard,HdBoard,None,0,TA,Gd,CBlock
+742,1Fam,1Story,7,5,2000,2001,Gable,CompShg,VinylSd,VinylSd,BrkFace,108,TA,TA,PConc
+743,1Fam,SLvl,5,6,1963,1999,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+744,TwnhsE,1Story,8,5,1993,1993,Gable,CompShg,HdBoard,HdBoard,None,0,Gd,TA,PConc
+745,1Fam,2Story,8,9,1976,1996,Hip,CompShg,VinylSd,VinylSd,BrkFace,289,Ex,Gd,CBlock
+746,1Fam,2Story,7,5,2000,2000,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+747,1Fam,2Story,7,7,1880,2003,Mansard,CompShg,Stucco,Stucco,None,0,Gd,TA,Stone
+748,1Fam,1Story,7,5,1996,1996,Hip,CompShg,VinylSd,VinylSd,BrkFace,338,Gd,TA,PConc
+749,1Fam,1.5Fin,4,3,1945,1950,Gable,CompShg,WdShing,Wd Shng,None,0,TA,TA,Slab
+750,1Fam,1.5Fin,4,7,1910,2004,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+751,1Fam,2Story,7,5,2003,2003,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+752,1Fam,1Story,6,5,1997,1997,Gable,CompShg,VinylSd,VinylSd,None,0,TA,Gd,PConc
+753,1Fam,2Story,8,5,2005,2005,Gable,CompShg,VinylSd,VinylSd,BrkFace,178,Gd,TA,PConc
+754,1Fam,1Story,6,8,1969,2005,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+755,TwnhsE,2Story,6,5,1999,1999,Gable,CompShg,MetalSd,MetalSd,BrkFace,894,TA,TA,PConc
+756,1Fam,2Story,8,5,2007,2007,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+757,1Fam,2Story,6,5,1978,1978,Hip,CompShg,HdBoard,HdBoard,BrkCmn,328,TA,TA,CBlock
+758,Twnhs,2Story,7,5,1999,1999,Gable,CompShg,MetalSd,MetalSd,BrkFace,360,TA,TA,PConc
+759,1Fam,2Story,8,5,1995,1995,Gable,CompShg,VinylSd,VinylSd,BrkFace,513,Gd,TA,PConc
+760,1Fam,1Story,6,6,1959,1959,Hip,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+761,1Fam,1Story,5,5,1924,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,PConc
+762,1Fam,2Story,7,5,2009,2009,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+763,1Fam,2Story,8,5,1999,1999,Gable,CompShg,VinylSd,VinylSd,BrkFace,673,Gd,TA,PConc
+764,TwnhsE,1Story,8,5,1995,1996,Hip,CompShg,BrkFace,BrkFace,None,0,Gd,Gd,PConc
+765,1Fam,1Story,9,5,2008,2008,Gable,CompShg,VinylSd,VinylSd,Stone,284,Gd,TA,PConc
+766,1Fam,2Story,7,5,1988,1988,Gable,CompShg,HdBoard,HdBoard,BrkFace,42,TA,TA,CBlock
+767,1Fam,1.5Fin,6,7,1940,1985,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+768,1Fam,1Story,7,5,2004,2005,Hip,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+769,1Fam,2Story,8,5,2003,2003,Hip,CompShg,CemntBd,Wd Shng,BrkFace,603,Ex,TA,PConc
+770,1Fam,SFoyer,5,5,1982,1982,Hip,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+771,1Fam,1Story,4,5,1951,1951,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+772,1Fam,SLvl,6,5,1976,1976,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+773,1Fam,1Story,5,5,1958,1958,Gable,CompShg,Wd Sdng,Wd Sdng,None,1,TA,TA,CBlock
+774,1Fam,1Story,8,5,2006,2006,Hip,CompShg,VinylSd,VinylSd,BrkFace,375,Gd,TA,PConc
+775,TwnhsE,1Story,6,5,1998,1998,Hip,CompShg,VinylSd,VinylSd,BrkFace,320,TA,TA,PConc
+776,1Fam,1Story,7,5,2005,2006,Gable,CompShg,VinylSd,VinylSd,BrkFace,240,Gd,TA,PConc
+777,1Fam,1Story,5,5,1974,1974,Hip,CompShg,HdBoard,Plywood,None,0,TA,TA,CBlock
+778,Duplex,1Story,5,5,1977,1977,Gable,CompShg,Plywood,Plywood,BrkFace,320,TA,TA,Slab
+779,Duplex,SFoyer,6,5,1977,1977,Gable,CompShg,Plywood,ImStucc,BrkFace,90,TA,TA,CBlock
+780,1Fam,1Story,7,5,1995,1996,Gable,CompShg,HdBoard,HdBoard,BrkFace,38,TA,TA,PConc
+781,1Fam,2Story,6,5,1992,1992,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,Gd,PConc
+782,1Fam,1Story,7,5,2001,2002,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+783,1Fam,SFoyer,5,6,1978,1978,Gable,CompShg,Plywood,Plywood,BrkFace,104,TA,Gd,PConc
+784,1Fam,2.5Unf,6,6,1914,2001,Gable,CompShg,Wd Sdng,Wd Shng,None,0,TA,TA,CBlock
+785,1Fam,1Story,6,5,1967,1967,Gable,CompShg,BrkFace,Wd Sdng,None,0,TA,TA,CBlock
+786,1Fam,1.5Fin,5,6,1915,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Gd,PConc
+787,1Fam,2Story,7,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+788,1Fam,1Story,4,7,1954,2000,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+789,1Fam,2Story,6,8,1966,2007,Gable,CompShg,HdBoard,HdBoard,BrkFace,157,TA,TA,CBlock
+790,TwnhsE,1Story,7,5,2005,2006,Gable,CompShg,VinylSd,VinylSd,BrkFace,11,Gd,TA,PConc
+791,1Fam,SLvl,6,5,1976,1976,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,PConc
+792,1Fam,2Story,7,5,1996,1997,Gable,CompShg,MetalSd,MetalSd,None,0,Gd,TA,PConc
+793,1Fam,1Story,8,5,2007,2007,Gable,CompShg,CemntBd,CmentBd,Stone,140,Gd,TA,PConc
+794,1Fam,2Story,7,5,1994,1996,Gable,CompShg,MetalSd,MetalSd,None,0,Gd,TA,PConc
+795,1Fam,2Story,6,6,1980,1981,Gable,CompShg,HdBoard,HdBoard,BrkFace,130,TA,TA,CBlock
+796,1Fam,1Story,6,5,1977,1977,Gable,CompShg,Plywood,Plywood,BrkFace,148,TA,TA,CBlock
+797,1Fam,1Story,5,5,1953,1953,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+798,1Fam,2Story,9,5,2008,2009,Hip,CompShg,VinylSd,VinylSd,Stone,860,Ex,TA,PConc
+799,1Fam,1.5Fin,5,7,1937,1950,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,252,TA,TA,BrkTil
+800,1Fam,2Story,6,5,1997,1997,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+801,1Fam,1Story,4,7,1916,1990,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+802,1Fam,2Story,7,5,2005,2005,Gable,CompShg,WdShing,Wd Shng,None,0,Gd,TA,PConc
+803,1Fam,2Story,9,5,2008,2009,Hip,CompShg,VinylSd,VinylSd,Stone,424,Ex,TA,PConc
+804,1Fam,1Story,5,5,1954,1954,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+805,1Fam,1Story,7,5,2008,2008,Gable,CompShg,VinylSd,VinylSd,Stone,256,Gd,TA,PConc
+806,1Fam,SLvl,5,5,1967,1967,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+807,1Fam,2Story,5,6,1923,2004,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+808,1Fam,SLvl,5,5,1966,1966,Gable,CompShg,VinylSd,VinylSd,BrkFace,1047,TA,TA,CBlock
+809,1Fam,2.5Unf,5,5,1898,1965,Hip,CompShg,AsbShng,AsbShng,None,0,TA,TA,PConc
+810,1Fam,1Story,6,6,1974,1999,Hip,CompShg,HdBoard,HdBoard,BrkFace,99,TA,TA,CBlock
+811,TwnhsE,1Story,6,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,BrkFace,169,Gd,TA,PConc
+812,1Fam,1Story,5,5,1952,1952,Hip,CompShg,Wd Sdng,Wd Sdng,None,0,Fa,TA,CBlock
+813,1Fam,1Story,6,6,1958,1958,Gable,CompShg,MetalSd,MetalSd,BrkFace,243,TA,TA,CBlock
+814,1Fam,1.5Fin,5,7,1918,1950,Gable,CompShg,Stucco,Stucco,None,0,TA,TA,BrkTil
+815,1Fam,1Story,7,5,1998,1998,Gable,CompShg,VinylSd,VinylSd,BrkFace,442,TA,TA,PConc
+816,1Fam,1Story,5,6,1954,1954,Gable,CompShg,BrkFace,BrkFace,None,0,TA,TA,CBlock
+817,1Fam,1Story,8,5,2002,2002,Hip,CompShg,CemntBd,CmentBd,BrkFace,148,Gd,TA,PConc
+818,1Fam,SLvl,6,7,1971,1971,Gable,CompShg,HdBoard,HdBoard,BrkFace,80,TA,TA,CBlock
+819,TwnhsE,1Story,7,5,2009,2010,Gable,CompShg,VinylSd,VinylSd,Stone,128,Gd,TA,PConc
+820,1Fam,2Story,7,5,2003,2003,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+821,2fmCon,1Story,4,4,1953,1953,Gable,CompShg,MetalSd,MetalSd,None,0,Fa,TA,CBlock
+822,1Fam,2Story,7,5,2003,2003,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+823,1Fam,1.5Fin,6,7,1940,1950,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,BrkTil
+824,1Fam,1Story,8,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+825,1Fam,1Story,10,5,2007,2008,Hip,CompShg,CemntBd,CmentBd,BrkFace,816,Ex,TA,PConc
+826,1Fam,1.5Unf,5,6,1924,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil
+827,1Fam,1Story,7,5,2001,2001,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+828,1Fam,2Story,5,5,1967,1967,Flat,Tar&Grv,Plywood,Plywood,None,0,TA,TA,PConc
+829,Twnhs,2Story,7,5,2005,2005,Gable,CompShg,MetalSd,MetalSd,None,0,Gd,TA,PConc
+830,1Fam,1Story,6,5,1957,1957,Gable,CompShg,HdBoard,HdBoard,BrkFace,387,TA,TA,CBlock
+831,TwnhsE,2Story,7,5,2005,2005,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,PConc
+832,1Fam,2Story,7,6,2003,2003,Gable,CompShg,VinylSd,VinylSd,BrkFace,223,Gd,TA,PConc
+833,1Fam,1Story,6,6,1964,1964,Gable,CompShg,HdBoard,Plywood,BrkFace,180,TA,TA,CBlock
+834,1Fam,1Story,5,6,1961,1961,Gable,CompShg,VinylSd,VinylSd,BrkFace,136,TA,TA,CBlock
+835,1Fam,1Story,4,7,1950,1995,Gable,CompShg,VinylSd,HdBoard,None,0,TA,TA,CBlock
+836,1Fam,1Story,5,6,1948,1973,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,BrkTil
+837,Twnhs,2Story,6,5,1973,1973,Gable,CompShg,HdBoard,HdBoard,BrkFace,158,TA,TA,CBlock
+838,1Fam,1Story,5,6,1995,2006,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+839,1Fam,1.5Fin,5,6,1946,1995,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+840,1Fam,2Story,6,8,1925,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+841,1Fam,2Story,5,8,1904,2002,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,PConc
+842,1Fam,SLvl,6,7,1966,1966,Gable,CompShg,HdBoard,HdBoard,BrkFace,183,TA,TA,CBlock
+843,Duplex,1Story,5,4,1961,1961,Gable,CompShg,BrkFace,BrkFace,None,0,TA,TA,CBlock
+844,1Fam,1.5Fin,5,8,1915,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+845,1Fam,SFoyer,5,5,1975,1981,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+846,1Fam,2Story,7,5,1993,1993,Gable,CompShg,HdBoard,HdBoard,BrkFace,137,Gd,TA,PConc
+847,1Fam,1Story,5,6,1972,1972,Gable,CompShg,HdBoard,Plywood,None,0,TA,TA,CBlock
+848,1Fam,1.5Fin,6,8,1908,1997,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+849,1Fam,SLvl,6,7,1976,1994,Hip,CompShg,Plywood,Plywood,BrkFace,360,Gd,Gd,CBlock
+850,TwnhsE,1Story,6,5,2003,2003,Gable,CompShg,VinylSd,VinylSd,BrkFace,170,Gd,TA,PConc
+851,TwnhsE,1Story,8,5,2003,2003,Gable,CompShg,VinylSd,VinylSd,BrkFace,40,Gd,TA,PConc
+852,1Fam,2.5Unf,7,5,1941,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Gd,CBlock
+853,1Fam,SLvl,6,6,1964,1964,Gable,CompShg,MetalSd,HdBoard,BrkFace,115,TA,Gd,CBlock
+854,1Fam,1Story,5,4,1955,1974,Hip,CompShg,Wd Sdng,Plywood,None,0,TA,TA,CBlock
+855,1Fam,1Story,5,8,1962,2010,Gable,CompShg,HdBoard,HdBoard,None,0,TA,Gd,CBlock
+856,1Fam,SLvl,6,6,1978,1978,Gable,CompShg,Plywood,HdBoard,None,0,TA,TA,CBlock
+857,1Fam,2Story,6,5,1994,1995,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,PConc
+858,1Fam,1Story,7,5,1976,1976,Gable,CompShg,HdBoard,HdBoard,BrkFace,189,TA,TA,CBlock
+859,1Fam,2Story,6,7,1968,1984,Gable,CompShg,HdBoard,HdBoard,BrkFace,220,TA,TA,CBlock
+860,1Fam,1.5Fin,7,8,1918,1998,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,Gd,TA,BrkTil
+861,2fmCon,1Story,5,4,1965,1965,Hip,CompShg,Plywood,HdBoard,None,0,TA,TA,PConc
+862,1Fam,1Story,6,5,1984,1985,Hip,CompShg,HdBoard,Plywood,None,0,TA,TA,PConc
+863,1Fam,1Story,5,5,1959,1959,Hip,CompShg,BrkFace,Plywood,None,0,TA,TA,CBlock
+864,1Fam,1Story,7,5,2007,2008,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+865,1Fam,1Story,5,6,1970,1970,Gable,CompShg,MetalSd,MetalSd,BrkFace,76,TA,TA,CBlock
+866,1Fam,1Story,8,5,2006,2007,Gable,CompShg,VinylSd,VinylSd,Stone,274,Gd,TA,PConc
+867,1Fam,1Story,4,5,1961,1961,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+868,1Fam,2Story,5,6,1948,1950,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,Slab
+869,1Fam,2Story,7,5,1993,1994,Gable,CompShg,MetalSd,MetalSd,BrkFace,246,Gd,TA,PConc
+870,1Fam,1Story,5,5,1962,1962,Hip,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+871,1Fam,2Story,6,5,1998,1998,Gable,CompShg,VinylSd,VinylSd,BrkFace,116,TA,TA,PConc
+872,1Fam,1Story,5,7,1953,1996,Gable,CompShg,WdShing,Wd Shng,None,0,Gd,TA,Stone
+873,1Fam,1Story,5,7,1949,1950,Gable,CompShg,HdBoard,HdBoard,None,0,Gd,TA,CBlock
+874,1Fam,1.5Fin,5,6,1941,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+875,1Fam,2Story,8,5,2007,2007,Gable,CompShg,CemntBd,CmentBd,None,0,Gd,TA,PConc
+876,1Fam,1Story,4,5,1963,1963,Gable,CompShg,HdBoard,Plywood,None,0,TA,TA,PConc
+877,1Fam,2Story,9,5,2004,2005,Hip,CompShg,VinylSd,VinylSd,Stone,216,Gd,TA,PConc
+878,1Fam,SFoyer,5,7,1961,1995,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+879,1Fam,1Story,5,8,1978,2005,Gable,CompShg,VinylSd,VinylSd,BrkFace,90,Gd,Gd,CBlock
+880,1Fam,1Story,5,5,2005,2006,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+881,1Fam,1.5Fin,7,5,1990,1991,Gable,CompShg,HdBoard,HdBoard,BrkFace,117,Gd,Gd,CBlock
+882,1Fam,2Story,6,5,1992,1993,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+883,1Fam,2.5Fin,4,5,1912,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,Gd,TA,PConc
+884,1Fam,1Story,5,5,1967,1967,Gable,CompShg,HdBoard,HdBoard,BrkFace,60,TA,TA,CBlock
+885,TwnhsE,1Story,9,5,1999,2000,Gable,CompShg,MetalSd,MetalSd,BrkFace,60,Gd,TA,PConc
+886,Duplex,1Story,5,5,1959,2005,Gable,CompShg,MetalSd,MetalSd,BrkFace,122,TA,TA,CBlock
+887,1Fam,1.5Fin,5,7,1955,1955,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Gd,PConc
+888,1Fam,1Story,8,6,1970,1970,Flat,Tar&Grv,Wd Sdng,Wd Sdng,None,0,Gd,Gd,PConc
+889,1Fam,1Story,6,4,1953,1953,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,90,TA,TA,CBlock
+890,1Fam,1.5Fin,5,7,1949,2006,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Gd,CBlock
+891,1Fam,2Story,6,5,1978,1978,Hip,CompShg,HdBoard,HdBoard,BrkFace,92,TA,TA,CBlock
+892,1Fam,1Story,6,8,1963,2003,Hip,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+893,1Fam,1Story,5,5,1954,1954,Gable,CompShg,Wd Sdng,Plywood,None,0,TA,TA,PConc
+894,Duplex,1Story,5,5,1979,1979,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,Slab
+895,1Fam,2Story,6,5,1963,1963,Hip,CompShg,HdBoard,HdBoard,BrkFace,415,TA,TA,CBlock
+896,1Fam,1Story,4,6,1936,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+897,Duplex,2Story,5,5,1979,1979,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,Slab
+898,1Fam,1Story,9,5,2009,2010,Hip,CompShg,VinylSd,VinylSd,Stone,760,Ex,TA,PConc
+899,1Fam,1Story,5,7,1961,1994,Gable,CompShg,HdBoard,Plywood,None,0,TA,TA,CBlock
+900,1Fam,1Story,4,6,1971,1971,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+901,1Fam,1Story,5,7,1957,2000,Hip,CompShg,MetalSd,MetalSd,None,0,TA,Gd,CBlock
+902,1Fam,2Story,7,5,2003,2003,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+903,1Fam,1Story,7,5,2006,2006,Hip,CompShg,VinylSd,VinylSd,BrkFace,27,Gd,TA,PConc
+904,1Fam,1Story,5,6,1967,1967,Gable,CompShg,HdBoard,Wd Sdng,BrkFace,75,TA,TA,CBlock
+905,1Fam,1Story,5,5,1954,1954,Gable,CompShg,HdBoard,HdBoard,Stone,110,TA,TA,CBlock
+906,1Fam,1Story,8,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,Stone,208,Gd,TA,PConc
+907,1Fam,1.5Fin,7,7,1936,1987,Gable,CompShg,BrkFace,BrkFace,None,0,Gd,TA,CBlock
+908,1Fam,1Story,5,5,1983,1983,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+909,1Fam,2Story,6,5,2005,2005,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+910,Duplex,2Story,5,5,1960,1960,Gable,CompShg,MetalSd,MetalSd,BrkFace,361,TA,TA,CBlock
+911,1Fam,1Story,5,7,1977,1989,Gable,CompShg,HdBoard,Plywood,None,0,TA,TA,CBlock
+912,1Fam,1Story,5,7,1925,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil
+913,Duplex,2Story,5,6,1949,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+914,TwnhsE,2Story,6,5,2009,2009,Gable,CompShg,VinylSd,VinylSd,Stone,76,Gd,TA,PConc
+915,Twnhs,2Story,4,5,1970,1970,Gable,CompShg,CemntBd,CmentBd,BrkFace,80,TA,TA,CBlock
+916,1Fam,1Story,2,3,1949,1950,Gable,CompShg,AsbShng,AsbShng,None,0,TA,TA,CBlock
+917,1Fam,1Story,4,6,1956,1956,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+918,1Fam,2Story,7,5,1991,1991,Gable,CompShg,HdBoard,HdBoard,None,0,Gd,TA,PConc
+919,1Fam,1Story,6,8,1958,2002,Hip,CompShg,MetalSd,MetalSd,None,0,Ex,TA,CBlock
+920,1Fam,2Story,6,5,1994,1994,Gable,CompShg,HdBoard,HdBoard,BrkFace,105,Gd,Gd,PConc
+921,Duplex,1.5Fin,5,7,1900,2003,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+922,1Fam,1Story,6,5,2005,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+923,TwnhsE,1Story,6,5,1993,1994,Gable,CompShg,Plywood,Plywood,None,0,Gd,TA,PConc
+924,1Fam,1Story,6,6,1980,1980,Gable,CompShg,Plywood,Plywood,BrkFace,157,TA,Gd,CBlock
+925,1Fam,1Story,5,6,1977,1977,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+926,1Fam,2Story,8,5,2003,2004,Hip,CompShg,VinylSd,VinylSd,BrkFace,340,Gd,TA,PConc
+927,1Fam,2Story,7,5,1968,1968,Gable,CompShg,MetalSd,MetalSd,BrkFace,342,TA,TA,CBlock
+928,1Fam,1Story,8,5,2001,2001,Hip,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+929,1Fam,2Story,7,5,1997,1997,Gable,CompShg,HdBoard,HdBoard,BrkFace,285,TA,TA,PConc
+930,1Fam,1Story,8,5,2007,2007,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+931,1Fam,1Story,5,6,1965,1965,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+932,1Fam,1Story,9,5,2006,2006,Hip,CompShg,VinylSd,ImStucc,Stone,302,Ex,TA,PConc
+933,1Fam,1Story,7,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,BrkFace,210,Gd,TA,PConc
+934,1Fam,1Story,7,7,1960,2007,Flat,Tar&Grv,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+935,1Fam,1Story,4,5,1926,1953,Gable,CompShg,MetalSd,MetalSd,BrkFace,108,TA,Gd,PConc
+936,1Fam,1Story,7,5,2003,2003,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+937,1Fam,2Story,7,5,2005,2005,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+938,1Fam,2Story,7,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+939,1Fam,2Story,7,7,1940,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Gd,CBlock
+940,Duplex,1Story,6,5,1976,1976,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+941,1Fam,2Story,7,5,1999,1999,Gable,CompShg,VinylSd,VinylSd,BrkFace,298,Gd,TA,PConc
+942,Duplex,1Story,4,3,1977,1977,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,PConc
+943,Duplex,1Story,5,4,1967,1967,Gable,CompShg,HdBoard,Plywood,None,0,TA,TA,CBlock
+944,1Fam,SLvl,6,6,1958,1958,Gable,CompShg,HdBoard,HdBoard,BrkFace,541,TA,TA,CBlock
+945,1Fam,1.5Fin,5,6,1890,1996,Hip,CompShg,VinylSd,VinylSd,None,0,TA,TA,BrkTil
+946,1Fam,SLvl,5,6,1959,1959,Gable,CompShg,HdBoard,HdBoard,BrkFace,128,TA,Gd,CBlock
+947,1Fam,1Story,8,5,2002,2003,Hip,CompShg,VinylSd,VinylSd,BrkFace,236,Gd,TA,PConc
+948,1Fam,2Story,7,5,2002,2002,Gable,CompShg,VinylSd,VinylSd,BrkFace,144,Gd,TA,PConc
+949,1Fam,1Story,6,7,1972,2006,Hip,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+950,1Fam,1Story,5,8,1950,2002,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+951,1Fam,1Story,5,5,1965,1965,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+952,1Fam,SFoyer,5,8,1972,2003,Gable,CompShg,WdShing,HdBoard,None,0,TA,Gd,CBlock
+953,1Fam,2Story,5,4,1969,1969,Gable,CompShg,HdBoard,HdBoard,BrkFace,232,TA,TA,CBlock
+954,Duplex,SFoyer,6,5,1975,1975,Flat,Tar&Grv,WdShing,Plywood,BrkFace,250,TA,TA,CBlock
+955,Duplex,2Story,6,6,1946,1950,Gable,CompShg,MetalSd,MetalSd,BrkFace,423,TA,TA,CBlock
+956,TwnhsE,2Story,6,6,1980,1980,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+957,1Fam,1Story,5,5,1962,1962,Hip,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+958,1Fam,1Story,7,5,2003,2003,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+959,Twnhs,2Story,7,5,1999,1999,Hip,CompShg,MetalSd,MetalSd,None,0,Gd,TA,PConc
+960,1Fam,1Story,5,7,1958,2008,Gable,CompShg,Wd Sdng,Plywood,None,0,TA,Gd,CBlock
+961,1Fam,2Story,6,7,1977,1995,Gable,CompShg,HdBoard,HdBoard,BrkFace,424,TA,Gd,CBlock
+962,TwnhsE,2Story,6,6,1976,1976,Gable,CompShg,Plywood,Brk Cmn,None,0,TA,TA,CBlock
+963,1Fam,1Story,9,5,2007,2007,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+964,1Fam,2Story,7,5,2002,2003,Gable,CompShg,VinylSd,VinylSd,BrkFace,44,Gd,TA,PConc
+965,1Fam,2Story,6,5,2005,2007,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+966,1Fam,1.5Fin,5,7,1940,1950,Gable,CompShg,MetalSd,MetalSd,None,0,Gd,Gd,BrkTil
+967,1Fam,1Story,5,7,1955,1955,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,151,TA,TA,CBlock
+968,1Fam,1.5Fin,3,6,1910,1950,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,BrkTil
+969,2fmCon,SLvl,6,5,1958,1958,Hip,CompShg,HdBoard,HdBoard,BrkFace,105,TA,Fa,CBlock
+970,1Fam,1.5Fin,4,4,1949,1950,Gable,CompShg,AsbShng,AsbShng,None,0,TA,TA,CBlock
+971,Twnhs,2Story,7,5,2003,2004,Gable,CompShg,VinylSd,Wd Shng,Stone,106,Gd,TA,PConc
+972,TwnhsE,1Story,6,5,1979,1979,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+973,1Fam,1Story,7,5,2007,2008,Gable,CompShg,CemntBd,CmentBd,None,0,Gd,TA,PConc
+974,1Fam,2Story,7,8,1910,1993,Gable,CompShg,HdBoard,HdBoard,None,0,TA,Gd,BrkTil
+975,Twnhs,2Story,7,5,2000,2000,Gable,CompShg,MetalSd,MetalSd,None,0,Gd,TA,PConc
+976,1Fam,1Story,4,7,1923,1958,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,PConc
+977,TwnhsE,1Story,7,5,2006,2007,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+978,1Fam,1Story,4,5,1954,1954,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+979,1Fam,1Story,5,6,1963,1963,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+980,1Fam,SFoyer,7,9,1961,2007,Gable,CompShg,CemntBd,CmentBd,Stone,210,Ex,TA,CBlock
+981,1Fam,2Story,8,5,1998,1999,Hip,CompShg,VinylSd,VinylSd,BrkFace,975,Gd,TA,PConc
+982,1Fam,1Story,7,5,2007,2007,Gable,CompShg,VinylSd,VinylSd,BrkFace,16,Gd,TA,PConc
+983,1Fam,2Story,8,5,2002,2002,Gable,CompShg,CemntBd,CmentBd,None,0,Gd,TA,PConc
+984,Duplex,1.5Fin,5,5,1977,1977,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+985,2fmCon,1Story,5,5,1950,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+986,1Fam,1.5Fin,6,8,1910,2003,Hip,CompShg,VinylSd,VinylSd,None,0,TA,Gd,CBlock
+987,1Fam,1Story,9,5,2009,2010,Hip,CompShg,VinylSd,VinylSd,Stone,450,Ex,TA,PConc
+988,1Fam,2Story,6,6,1976,1976,Gable,CompShg,Plywood,Plywood,BrkFace,298,TA,TA,CBlock
+989,1Fam,2Story,7,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+990,1Fam,2Story,8,5,1997,1998,Gable,CompShg,VinylSd,VinylSd,BrkFace,423,Gd,TA,PConc
+991,1Fam,2Story,8,9,1882,1986,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,Gd,Gd,BrkTil
+992,1Fam,2Story,6,8,1964,1993,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,340,TA,TA,CBlock
+993,1Fam,2Story,6,5,2005,2006,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+994,1Fam,1Story,10,5,2006,2007,Hip,CompShg,CemntBd,CmentBd,Stone,230,Ex,TA,PConc
+995,1Fam,1.5Fin,4,7,1946,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+996,1Fam,1Story,5,6,1961,1961,Hip,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+997,1Fam,1Story,6,6,1970,1970,Hip,CompShg,HdBoard,HdBoard,BrkFace,571,TA,TA,CBlock
+998,1Fam,1Story,3,4,1922,1950,Hip,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+999,1Fam,1Story,7,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,Stone,24,Gd,TA,PConc
+1000,1Fam,1Story,3,3,1952,1952,Flat,Tar&Grv,BrkComm,Brk Cmn,None,0,TA,TA,Slab
+1001,1Fam,1Story,5,6,1920,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+1002,1Fam,1Story,8,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,BrkFace,53,Gd,TA,PConc
+1003,Duplex,1Story,5,6,1976,1976,Gable,CompShg,VinylSd,VinylSd,BrkFace,164,TA,TA,CBlock
+1004,TwnhsE,1Story,7,5,2005,2006,Gable,CompShg,VinylSd,VinylSd,BrkFace,16,Gd,TA,PConc
+1005,1Fam,SLvl,5,8,1977,1977,Gable,CompShg,HdBoard,HdBoard,BrkFace,220,Gd,TA,CBlock
+1006,1Fam,1Story,6,3,1970,1970,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+1007,TwnhsE,2Story,4,4,1970,1970,Gable,CompShg,CemntBd,CmentBd,None,0,TA,TA,CBlock
+1008,1Fam,1Story,7,5,2004,2005,Hip,CompShg,VinylSd,VinylSd,Stone,108,Gd,TA,PConc
+1009,1Fam,1.5Fin,5,5,1926,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,Fa,BrkTil
+1010,1Fam,1.5Fin,5,5,1948,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+1011,Duplex,1Story,5,5,1965,1965,Hip,CompShg,AsphShn,AsphShn,None,0,TA,TA,CBlock
+1012,1Fam,2Story,6,7,1923,1996,Hip,CompShg,Wd Sdng,Wd Sdng,None,0,TA,Gd,PConc
+1013,1Fam,1Story,5,4,1910,2006,Hip,CompShg,MetalSd,Stucco,None,0,TA,TA,BrkTil
+1014,1Fam,1Story,6,5,1948,1950,Gable,CompShg,MetalSd,MetalSd,BrkFace,206,TA,TA,CBlock
+1015,1Fam,2Story,8,6,2001,2001,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1016,1Fam,1Story,7,5,1996,1996,Hip,CompShg,VinylSd,VinylSd,BrkFace,196,Gd,TA,PConc
+1017,TwnhsE,1Story,8,5,1984,1984,Gable,CompShg,HdBoard,HdBoard,None,0,Gd,TA,CBlock
+1018,1Fam,SLvl,7,5,1991,1992,Gable,CompShg,HdBoard,HdBoard,BrkFace,76,Gd,TA,PConc
+1019,TwnhsE,1Story,7,5,2005,2005,Gable,CompShg,VinylSd,VinylSd,BrkFace,145,Gd,TA,PConc
+1020,1Fam,1Story,4,5,2005,2005,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+1021,1Fam,1Story,7,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,Stone,84,Gd,TA,PConc
+1022,1Fam,1.5Fin,5,5,1930,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+1023,TwnhsE,1Story,7,5,2005,2006,Gable,CompShg,VinylSd,VinylSd,BrkFace,14,Gd,TA,PConc
+1024,1Fam,1Story,8,6,1976,1976,Hip,WdShake,Stone,HdBoard,None,0,Gd,TA,CBlock
+1025,1Fam,1Story,5,5,1972,1972,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+1026,1Fam,1Story,5,5,1960,1960,Gable,CompShg,MetalSd,HdBoard,BrkFace,324,TA,TA,CBlock
+1027,1Fam,1Story,8,5,2007,2008,Gable,CompShg,VinylSd,VinylSd,Stone,338,Gd,TA,PConc
+1028,1Fam,1.5Fin,5,5,1941,1950,Gable,CompShg,WdShing,Wd Shng,None,0,TA,TA,CBlock
+1029,Twnhs,2Story,6,7,1972,1972,Gable,CompShg,HdBoard,HdBoard,BrkFace,281,TA,TA,CBlock
+1030,2fmCon,2Story,5,8,1916,1995,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+1031,1Fam,2.5Fin,7,3,1920,1970,Gable,CompShg,Wd Sdng,Plywood,None,0,TA,TA,BrkTil
+1032,1Fam,2Story,8,7,1993,1993,Gable,CompShg,MetalSd,MetalSd,None,0,Gd,Gd,PConc
+1033,1Fam,1Story,7,5,2002,2002,Gable,CompShg,VinylSd,VinylSd,Stone,295,Gd,TA,PConc
+1034,1Fam,1Story,5,7,1938,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Gd,PConc
+1035,1Fam,1Story,4,3,1957,1957,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,Gd,Slab
+1036,1Fam,1Story,9,5,2007,2008,Hip,CompShg,VinylSd,VinylSd,Stone,70,Gd,TA,PConc
+1037,1Fam,2Story,8,5,2001,2002,Gable,CompShg,VinylSd,VinylSd,BrkFace,396,Gd,TA,PConc
+1038,Twnhs,2Story,4,6,1970,2008,Gable,CompShg,CemntBd,CmentBd,None,0,TA,TA,CBlock
+1039,TwnhsE,SFoyer,4,4,1970,1970,Gable,CompShg,CemntBd,CmentBd,None,0,TA,TA,CBlock
+1040,1Fam,1Story,5,4,1957,2000,Gable,CompShg,Wd Sdng,Wd Sdng,BrkCmn,67,TA,TA,CBlock
+1041,1Fam,2Story,6,8,1966,2000,Hip,CompShg,HdBoard,HdBoard,BrkFace,252,TA,TA,CBlock
+1042,Twnhs,1Story,6,5,2005,2005,Gable,CompShg,VinylSd,VinylSd,Stone,135,Gd,TA,PConc
+1043,1Fam,2Story,7,5,1990,1990,Hip,CompShg,HdBoard,HdBoard,BrkFace,99,TA,TA,PConc
+1044,1Fam,1Story,8,5,1981,1981,Hip,WdShngl,BrkFace,BrkFace,None,0,Gd,TA,PConc
+1045,1Fam,1Story,3,5,1955,1955,Hip,CompShg,BrkFace,Wd Sdng,None,0,TA,TA,Slab
+1046,1Fam,2Story,9,5,2005,2006,Hip,CompShg,CemntBd,CmentBd,Stone,208,Gd,TA,PConc
+1047,1Fam,1Story,5,5,1994,1995,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+1048,1Fam,1Story,5,4,1960,2006,Hip,CompShg,HdBoard,HdBoard,BrkFace,75,TA,Fa,Slab
+1049,1Fam,1Story,4,7,1946,2006,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+1050,1Fam,1Story,7,5,2007,2007,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1051,1Fam,1Story,7,5,2007,2007,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1052,1Fam,2Story,6,6,1964,1978,Gable,CompShg,VinylSd,VinylSd,BrkCmn,272,TA,TA,CBlock
+1053,1Fam,1Story,5,6,1957,2002,Hip,CompShg,HdBoard,HdBoard,Stone,145,TA,TA,CBlock
+1054,1Fam,2Story,8,5,2002,2002,Gable,CompShg,VinylSd,VinylSd,BrkFace,210,Gd,TA,PConc
+1055,1Fam,1Story,6,5,1976,1976,Gable,CompShg,Plywood,Plywood,BrkFace,160,TA,TA,CBlock
+1056,TwnhsE,1Story,7,5,2005,2005,Gable,CompShg,VinylSd,VinylSd,Stone,240,Gd,TA,PConc
+1057,1Fam,2Story,7,6,1994,1994,Gable,CompShg,HdBoard,HdBoard,None,0,Gd,TA,PConc
+1058,1Fam,2Story,9,5,2008,2008,Gable,CompShg,VinylSd,VinylSd,Stone,154,Ex,TA,PConc
+1059,1Fam,1.5Fin,6,7,1932,1950,Gable,CompShg,MetalSd,MetalSd,BrkFace,480,TA,TA,CBlock
+1060,TwnhsE,1Story,8,5,2001,2001,Gable,CompShg,CemntBd,CmentBd,None,0,Gd,TA,PConc
+1061,1Fam,1Story,3,4,1935,1950,Gable,CompShg,MetalSd,MetalSd,None,0,Fa,TA,CBlock
+1062,2fmCon,2Story,5,5,1900,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+1063,1Fam,1Story,6,6,1925,1980,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Gd,BrkTil
+1064,1Fam,1Story,5,6,1966,1966,Gable,CompShg,Plywood,Plywood,BrkFace,200,TA,TA,CBlock
+1065,1Fam,2Story,7,5,1996,1997,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,Gd,TA,PConc
+1066,1Fam,2Story,6,7,1993,1994,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1067,1Fam,2Story,6,6,1964,1964,Gable,CompShg,HdBoard,HdBoard,BrkFace,360,TA,TA,CBlock
+1068,TwnhsE,2Story,6,4,1973,1973,Gable,CompShg,CemntBd,CmentBd,None,0,TA,TA,CBlock
+1069,1Fam,1.5Unf,5,7,1949,2003,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+1070,1Fam,1Story,5,5,1956,1956,Hip,CompShg,MetalSd,MetalSd,BrkFace,120,TA,TA,CBlock
+1071,1Fam,2Story,6,6,1968,1968,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+1072,1Fam,1.5Fin,5,3,1948,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+1073,1Fam,2Story,6,6,1977,1977,Hip,CompShg,HdBoard,Plywood,BrkFace,140,TA,TA,CBlock
+1074,1Fam,1Story,7,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1075,1Fam,2Story,7,6,1940,1984,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+1076,1Fam,1.5Fin,5,8,1936,1989,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+1077,1Fam,1Story,5,5,1969,1969,Gable,CompShg,VinylSd,Plywood,None,0,TA,TA,CBlock
+1078,TwnhsE,1Story,6,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,BrkFace,169,Gd,TA,PConc
+1079,1Fam,1Story,5,5,1994,1994,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+1080,1Fam,1Story,6,7,1971,2004,Gable,CompShg,VinylSd,VinylSd,BrkFace,144,Gd,Gd,CBlock
+1081,1Fam,1Story,5,5,1963,1963,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+1082,1Fam,1Story,7,5,2002,2002,Gable,CompShg,VinylSd,VinylSd,BrkFace,100,Gd,TA,PConc
+1083,1Fam,1Story,6,6,1964,1964,Hip,CompShg,HdBoard,HdBoard,BrkFace,425,TA,TA,CBlock
+1084,1Fam,2Story,6,5,1995,1996,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,PConc
+1085,1Fam,SFoyer,6,6,1992,1992,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,PConc
+1086,TwnhsE,2Story,4,5,1973,1973,Gable,CompShg,CemntBd,CmentBd,None,0,TA,TA,CBlock
+1087,1Fam,2Story,8,5,2005,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1088,Twnhs,2Story,7,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,Stone,50,Gd,TA,PConc
+1089,TwnhsE,1Story,8,5,2005,2005,Gable,CompShg,MetalSd,MetalSd,None,0,Gd,TA,PConc
+1090,Duplex,1Story,3,4,1950,1950,Gable,CompShg,BrkFace,BrkFace,None,0,TA,TA,Slab
+1091,Twnhs,2Story,7,5,1999,2000,Gable,CompShg,MetalSd,MetalSd,BrkFace,212,Gd,TA,PConc
+1092,1Fam,1.5Fin,6,5,1925,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,PConc
+1093,1Fam,1Story,5,8,1965,1998,Hip,CompShg,MetalSd,MetalSd,BrkFace,166,TA,TA,CBlock
+1094,1Fam,1Story,5,7,1956,2000,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+1095,1Fam,1Story,6,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1096,1Fam,2Story,6,7,1914,2006,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,PConc
+1097,TwnhsE,1Story,8,5,1986,1986,Gable,CompShg,HdBoard,HdBoard,None,0,Gd,TA,CBlock
+1098,1Fam,1.5Fin,4,6,1936,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil
+1099,1Fam,1Story,7,5,1978,1978,Gable,CompShg,Plywood,Plywood,BrkFace,206,TA,TA,CBlock
+1100,1Fam,1Story,2,5,1920,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+1101,1Fam,1Story,5,5,1971,1971,Gable,CompShg,HdBoard,MetalSd,None,0,TA,TA,CBlock
+1102,1Fam,1Story,5,7,1960,2002,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,45,TA,TA,CBlock
+1103,1Fam,1Story,6,6,1959,1959,Hip,CompShg,BrkFace,BrkFace,None,0,TA,TA,CBlock
+1104,TwnhsE,2Story,5,5,1970,1970,Gable,CompShg,HdBoard,HdBoard,BrkFace,304,TA,TA,CBlock
+1105,1Fam,2Story,8,5,1994,1995,Gable,CompShg,HdBoard,HdBoard,BrkFace,362,Gd,TA,PConc
+1106,1Fam,1Story,7,5,1990,1991,Hip,CompShg,HdBoard,HdBoard,None,0,Gd,TA,PConc
+1107,1Fam,2Story,7,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1108,1Fam,2Story,6,5,2000,2000,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+1109,1Fam,1Story,8,5,2004,2005,Gable,CompShg,MetalSd,MetalSd,Stone,42,Gd,TA,PConc
+1110,1Fam,2Story,6,5,1995,1996,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,PConc
+1111,1Fam,2Story,7,6,1976,1976,Hip,CompShg,Plywood,Plywood,BrkFace,660,TA,TA,CBlock
+1112,1Fam,1Story,5,7,1957,1957,Gable,CompShg,WdShing,Wd Shng,None,0,TA,TA,CBlock
+1113,1Fam,1Story,5,7,1953,2006,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+1114,1Fam,1Story,5,7,1954,2000,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Gd,CBlock
+1115,1Fam,1Story,8,5,2007,2007,Hip,CompShg,VinylSd,VinylSd,Stone,328,Gd,TA,PConc
+1116,1Fam,SLvl,8,5,2002,2002,Hip,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1117,1Fam,1Story,5,7,1967,2003,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+1118,1Fam,SLvl,5,6,1958,1987,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Gd,CBlock
+1119,1Fam,1Story,5,5,1959,1959,Gable,CompShg,BrkFace,Wd Sdng,None,0,TA,TA,CBlock
+1120,1Fam,1Story,6,5,1920,1950,Gable,CompShg,BrkFace,BrkFace,None,0,TA,TA,BrkTil
+1121,1Fam,1Story,7,5,2005,2006,Gable,CompShg,VinylSd,VinylSd,BrkFace,196,Gd,TA,PConc
+1122,1Fam,1Story,4,3,1956,1956,Gable,CompShg,AsbShng,AsbShng,None,0,TA,TA,CBlock
+1123,1Fam,1Story,5,9,1947,2008,Hip,CompShg,VinylSd,VinylSd,None,0,TA,Ex,CBlock
+1124,1Fam,SLvl,7,5,1992,1992,Gable,CompShg,HdBoard,HdBoard,BrkFace,170,TA,TA,PConc
+1125,1Fam,1Story,4,5,1955,1955,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+1126,TwnhsE,1Story,7,5,2007,2007,Hip,CompShg,VinylSd,VinylSd,BrkFace,130,Gd,TA,PConc
+1127,1Fam,1Story,7,5,2004,2004,Hip,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1128,1Fam,2Story,7,5,2004,2005,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1129,Duplex,SFoyer,5,5,1980,1980,Gable,CompShg,MetalSd,MetalSd,BrkFace,180,TA,TA,CBlock
+1130,1Fam,1.5Fin,4,3,1928,1950,Gable,CompShg,WdShing,Plywood,None,0,TA,TA,BrkTil
+1131,1Fam,1Story,5,5,1991,1992,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,PConc
+1132,1Fam,2Story,6,4,1880,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+1133,1Fam,2Story,8,5,1995,1995,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1134,1Fam,2Story,6,5,1997,1997,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+1135,1Fam,1Story,6,5,1926,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+1136,1Fam,1.5Fin,6,5,1950,1950,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+1137,1Fam,1.5Fin,5,8,1875,1996,Gable,CompShg,VinylSd,VinylSd,None,0,TA,Gd,CBlock
+1138,1Fam,1Story,6,5,1977,1977,Gable,CompShg,Plywood,ImStucc,None,0,TA,TA,PConc
+1139,1Fam,1Story,5,5,1920,1950,Gable,CompShg,Stucco,Stucco,None,0,TA,Fa,BrkTil
+1140,1Fam,1Story,5,7,1951,1951,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+1141,1Fam,2Story,5,7,1976,1976,Gable,CompShg,Plywood,Plywood,BrkFace,44,TA,Gd,CBlock
+1142,1Fam,2Story,8,5,2006,2007,Hip,CompShg,VinylSd,VinylSd,Stone,340,Gd,TA,PConc
+1143,1Fam,1Story,5,3,1959,1959,Gable,CompShg,Wd Sdng,Plywood,None,0,TA,TA,CBlock
+1144,2fmCon,1.5Fin,4,4,1941,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Fa,BrkTil
+1145,1Fam,1.5Fin,5,6,1928,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil
+1146,1Fam,1Story,6,5,1985,1985,Gable,CompShg,Wd Sdng,Wd Shng,BrkFace,85,Gd,TA,CBlock
+1147,1Fam,2Story,7,7,1941,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+1148,1Fam,1.5Fin,7,7,1926,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,PConc
+1149,1Fam,2Story,7,9,1920,1988,Hip,CompShg,VinylSd,VinylSd,None,0,TA,Gd,PConc
+1150,1Fam,1Story,6,5,1950,1950,Gable,CompShg,BrkFace,BrkFace,None,0,TA,TA,CBlock
+1151,1Fam,1Story,5,4,1959,1959,Gable,CompShg,HdBoard,Plywood,BrkFace,132,TA,TA,CBlock
+1152,1Fam,1Story,6,7,1956,2004,Gable,CompShg,Stone,Stone,None,0,TA,TA,PConc
+1153,1Fam,1Story,6,8,1930,2007,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,Gd,Gd,BrkTil
+1154,1Fam,2Story,7,6,1965,1988,Gable,CompShg,VinylSd,VinylSd,Stone,288,TA,TA,CBlock
+1155,1Fam,1Story,5,8,1976,2004,Gable,CompShg,Plywood,Plywood,None,0,Gd,Gd,CBlock
+1156,1Fam,SLvl,5,8,1965,1999,Gable,CompShg,BrkFace,BrkFace,None,0,TA,Gd,PConc
+1157,Twnhs,1Story,7,5,2007,2008,Gable,CompShg,VinylSd,VinylSd,Stone,166,Gd,TA,PConc
+1158,1Fam,1Story,8,5,2007,2008,Gable,CompShg,VinylSd,VinylSd,Stone,186,Gd,TA,PConc
+1159,1Fam,2Story,6,6,1974,1974,Hip,CompShg,HdBoard,HdBoard,BrkFace,270,Gd,TA,CBlock
+1160,Twnhs,2Story,6,5,1978,1978,Gable,CompShg,Plywood,Brk Cmn,None,0,TA,TA,CBlock
+1161,1Fam,1Story,6,7,1954,2006,Hip,CompShg,HdBoard,HdBoard,BrkFace,72,Gd,TA,CBlock
+1162,1Fam,1Story,5,5,1968,1968,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+1163,Duplex,SFoyer,4,4,1969,1969,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+1164,1Fam,SLvl,5,7,1978,1978,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,PConc
+1165,1Fam,1Story,7,5,2009,2009,Gable,CompShg,VinylSd,VinylSd,Stone,268,Gd,TA,PConc
+1166,1Fam,1Story,8,5,2008,2008,Gable,CompShg,VinylSd,VinylSd,Stone,72,Gd,TA,PConc
+1167,1Fam,2Story,6,5,2000,2000,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+1168,1Fam,2Story,6,7,1935,1986,Hip,CompShg,Stucco,Stucco,None,0,TA,TA,CBlock
+1169,1Fam,2Story,10,5,1995,1996,Hip,CompShg,HdBoard,HdBoard,BrkFace,1378,Gd,Gd,PConc
+1170,1Fam,SLvl,6,6,1977,1977,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+1171,1Fam,1Story,6,6,1958,1958,Hip,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+1172,TwnhsE,2Story,7,5,2006,2007,Gable,CompShg,MetalSd,MetalSd,None,0,Gd,TA,PConc
+1173,1Fam,1.5Fin,5,6,1946,1994,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+1174,1Fam,2Story,6,8,1932,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+1175,1Fam,1.5Fin,8,5,1992,2000,Hip,CompShg,HdBoard,HdBoard,BrkFace,337,Gd,TA,PConc
+1176,1Fam,1Story,5,5,1984,1985,Gable,CompShg,HdBoard,Plywood,None,0,TA,TA,CBlock
+1177,1Fam,1.5Fin,6,8,1926,2004,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+1178,1Fam,1.5Fin,5,6,1921,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+1179,1Fam,1Story,5,5,1954,1954,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,Slab
+1180,1Fam,2Story,7,5,1990,1991,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,Wood
+1181,TwnhsE,1Story,8,5,2008,2008,Hip,CompShg,CemntBd,CmentBd,Stone,186,Ex,TA,PConc
+1182,1Fam,2Story,10,5,1996,1996,Hip,CompShg,Wd Sdng,ImStucc,None,0,Gd,TA,PConc
+1183,1Fam,1Story,5,6,1920,1950,Hip,CompShg,Stucco,Stucco,None,0,TA,TA,BrkTil
+1184,1Fam,1Story,5,4,1963,1963,Hip,CompShg,MetalSd,MetalSd,BrkFace,226,TA,TA,CBlock
+1185,1Fam,1.5Fin,5,7,1924,1950,Gable,CompShg,AsbShng,AsbShng,None,0,TA,Gd,BrkTil
+1186,2fmCon,2Story,3,5,1900,1970,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+1187,1Fam,1Story,8,5,1994,1995,Gable,CompShg,ImStucc,ImStucc,None,0,Gd,TA,PConc
+1188,1Fam,2Story,7,5,2002,2002,Gable,CompShg,VinylSd,VinylSd,BrkFace,95,Gd,TA,PConc
+1189,1Fam,2Story,7,5,1999,1999,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+1190,2fmCon,1Story,4,4,1961,1975,Gable,CompShg,MetalSd,MetalSd,Stone,149,TA,Gd,CBlock
+1191,Twnhs,2Story,8,5,1999,2000,Gable,CompShg,MetalSd,MetalSd,BrkFace,456,Gd,TA,PConc
+1192,1Fam,1.5Fin,5,8,1925,1994,Gambrel,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+1193,TwnhsE,1Story,6,5,1999,1999,Hip,CompShg,VinylSd,VinylSd,BrkFace,425,TA,TA,PConc
+1194,1Fam,2Story,6,7,1969,1969,Gable,CompShg,HdBoard,HdBoard,Stone,143,TA,TA,CBlock
+1195,1Fam,2Story,6,5,2005,2005,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+1196,1Fam,2Story,7,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1197,1Fam,2.5Unf,7,6,1916,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil
+1198,1Fam,1Story,7,5,2001,2001,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1199,1Fam,1Story,4,5,1963,1979,Gable,CompShg,HdBoard,HdBoard,BrkFace,51,TA,TA,CBlock
+1200,1Fam,1Story,4,5,1970,1970,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+1201,1Fam,2Story,7,5,1998,1998,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+1202,1Fam,1.5Fin,5,8,1925,1997,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+1203,1Fam,1Story,7,5,2000,2001,Gable,CompShg,VinylSd,VinylSd,BrkFace,171,Gd,TA,PConc
+1204,1Fam,1Story,5,6,1975,1975,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+1205,1Fam,1Story,7,7,1990,1991,Hip,CompShg,HdBoard,HdBoard,BrkFace,234,Gd,TA,CBlock
+1206,1Fam,1Story,4,4,1966,1966,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+1207,1Fam,1Story,6,5,2003,2003,Gable,CompShg,VinylSd,VinylSd,BrkFace,120,Gd,TA,PConc
+1208,1Fam,1Story,5,7,1962,1980,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Gd,CBlock
+1209,1Fam,1Story,8,5,2006,2006,Hip,CompShg,VinylSd,VinylSd,Stone,420,Gd,TA,PConc
+1210,1Fam,2Story,6,5,1992,1992,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,Gd,TA,PConc
+1211,1Fam,1.5Fin,8,7,1988,2005,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,Gd,TA,Wood
+1212,1Fam,1Story,4,6,1941,1950,Hip,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+1213,1Fam,SLvl,4,9,1965,2001,Gable,CompShg,VinylSd,VinylSd,None,0,TA,Gd,CBlock
+1214,1Fam,SFoyer,5,5,1962,1962,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+1215,1Fam,1Story,5,5,1966,1966,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+1216,Duplex,1.5Fin,6,5,1978,1978,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,Slab
+1217,1Fam,1Story,8,5,2009,2009,Gable,CompShg,CemntBd,CmentBd,Stone,72,Gd,TA,PConc
+1218,1Fam,1.5Fin,4,5,1947,1950,Gable,CompShg,AsbShng,AsbShng,None,0,TA,TA,Slab
+1219,Twnhs,2Story,6,5,1971,1971,Gable,CompShg,CemntBd,CmentBd,BrkFace,236,TA,TA,CBlock
+1220,1Fam,1Story,5,5,1964,1964,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+1221,1Fam,1Story,5,5,1968,1968,Hip,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+1222,1Fam,1.5Fin,6,6,1949,1950,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,320,TA,TA,CBlock
+1223,1Fam,1Story,5,3,1951,1951,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,44,TA,TA,CBlock
+1224,1Fam,2Story,7,5,2004,2005,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1225,1Fam,SLvl,6,8,1958,1958,Hip,CompShg,VinylSd,VinylSd,BrkFace,63,TA,Gd,CBlock
+1226,1Fam,2Story,6,5,2007,2007,Gable,CompShg,VinylSd,VinylSd,Stone,74,Gd,TA,PConc
+1227,1Fam,1Story,5,8,1965,2008,Gable,CompShg,VinylSd,VinylSd,BrkFace,300,TA,TA,CBlock
+1228,TwnhsE,1Story,9,5,2008,2008,Hip,CompShg,MetalSd,MetalSd,BrkFace,766,Ex,TA,PConc
+1229,1Fam,SLvl,5,5,1960,1960,Hip,CompShg,BrkFace,HdBoard,None,0,TA,TA,CBlock
+1230,Duplex,1.5Fin,5,5,1977,1977,Shed,CompShg,Plywood,Plywood,None,1,TA,TA,CBlock
+1231,Duplex,SLvl,5,6,1962,1962,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,120,TA,TA,CBlock
+1232,Duplex,1Story,4,5,1962,1962,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,Slab
+1233,1Fam,1Story,5,5,1959,1959,Hip,CompShg,Plywood,Plywood,BrkFace,180,TA,TA,CBlock
+1234,1Fam,2Story,5,6,1911,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,PConc
+1235,1Fam,2Story,5,5,1914,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+1236,Twnhs,2Story,7,5,2003,2003,Gable,CompShg,VinylSd,Wd Shng,Stone,106,Gd,TA,PConc
+1237,1Fam,2Story,7,5,2004,2005,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1238,1Fam,1Story,6,5,2005,2005,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1239,1Fam,1Story,8,5,2006,2006,Hip,CompShg,VinylSd,VinylSd,BrkFace,32,Gd,TA,PConc
+1240,1Fam,2Story,7,5,2003,2003,Gable,CompShg,VinylSd,VinylSd,BrkFace,252,Gd,TA,PConc
+1241,1Fam,1Story,7,6,2007,2007,Hip,CompShg,VinylSd,VinylSd,Stone,0,Gd,TA,PConc
+1242,1Fam,SFoyer,7,6,1974,1974,Gable,CompShg,Plywood,Plywood,BrkFace,81,TA,TA,CBlock
+1243,1Fam,1Story,10,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Ex,TA,PConc
+1244,1Fam,2Story,8,7,1929,1950,Gable,CompShg,BrkFace,Stucco,None,0,TA,TA,PConc
+1245,1Fam,SLvl,6,7,1984,2003,Hip,CompShg,VinylSd,VinylSd,BrkFace,74,TA,TA,CBlock
+1246,1Fam,2Story,7,5,2005,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1247,1Fam,SLvl,6,5,1976,1976,Gable,CompShg,HdBoard,HdBoard,BrkFace,335,TA,TA,CBlock
+1248,1Fam,2.5Unf,6,5,1917,1950,Gable,CompShg,AsbShng,AsbShng,None,0,TA,TA,BrkTil
+1249,1Fam,1Story,5,7,1950,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+1250,1Fam,1Story,7,5,1968,1968,Hip,CompShg,BrkFace,BrkFace,None,0,Gd,TA,CBlock
+1251,TwnhsE,1Story,7,5,2003,2003,Gable,CompShg,VinylSd,Wd Shng,Stone,163,Gd,TA,PConc
+1252,1Fam,1Story,5,6,1968,1968,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+1253,1Fam,2Story,7,7,1974,2003,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,Gd,TA,CBlock
+1254,1Fam,2Story,7,5,2003,2004,Gable,CompShg,VinylSd,VinylSd,Stone,92,Gd,TA,PConc
+1255,1Fam,1.5Fin,6,6,1931,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+1256,1Fam,1Story,8,5,1994,1994,Hip,CompShg,HdBoard,HdBoard,BrkFace,554,Gd,TA,PConc
+1257,1Fam,1Story,5,8,1922,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,PConc
+1258,1Fam,SLvl,7,5,2005,2005,Gable,CompShg,VinylSd,VinylSd,Stone,182,Gd,TA,PConc
+1259,1Fam,1Story,6,8,1969,1969,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+1260,1Fam,2Story,6,5,1999,1999,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+1261,1Fam,1Story,5,6,1956,1956,Hip,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+1262,1Fam,1.5Fin,4,5,1957,1989,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+1263,1Fam,2Story,6,6,1919,1950,Gambrel,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,PConc
+1264,TwnhsE,1Story,6,5,1998,1999,Gable,CompShg,MetalSd,MetalSd,None,0,Gd,TA,PConc
+1265,TwnhsE,2Story,7,5,1999,1999,Hip,CompShg,MetalSd,MetalSd,BrkFace,218,Gd,TA,PConc
+1266,2fmCon,2.5Unf,7,4,1910,1950,Hip,CompShg,Wd Sdng,Wd Sdng,None,0,Fa,TA,CBlock
+1267,1Fam,1Story,9,5,2008,2009,Hip,CompShg,Stucco,CmentBd,None,0,Ex,TA,PConc
+1268,1Fam,1.5Fin,8,9,1935,1997,Gable,CompShg,Stucco,Stucco,BrkFace,632,TA,Gd,CBlock
+1269,1Fam,1.5Fin,5,5,1958,1958,Gable,CompShg,MetalSd,MetalSd,BrkFace,180,TA,TA,CBlock
+1270,1Fam,1Story,7,6,1979,1979,Shed,WdShake,Plywood,Plywood,None,0,Gd,TA,PConc
+1271,1Fam,1Story,6,7,1968,1968,Hip,CompShg,BrkFace,BrkFace,None,0,TA,TA,CBlock
+1272,1Fam,1Story,5,6,1965,1965,Hip,CompShg,HdBoard,Plywood,BrkFace,114,TA,TA,CBlock
+1273,1Fam,SLvl,6,7,1959,2006,Gable,CompShg,Plywood,Plywood,BrkFace,84,TA,TA,CBlock
+1274,1Fam,1.5Fin,5,6,1910,2003,Gable,CompShg,Wd Sdng,Wd Shng,None,0,TA,TA,PConc
+1275,Duplex,2Story,5,5,1948,1950,Gable,Roll,AsbShng,AsbShng,Stone,567,TA,TA,CBlock
+1276,1Fam,2Story,6,6,1972,1972,Gable,CompShg,HdBoard,Plywood,None,0,TA,TA,CBlock
+1277,1Fam,SLvl,6,5,1967,1976,Gable,CompShg,HdBoard,HdBoard,BrkFace,359,TA,TA,CBlock
+1278,1Fam,2Story,8,5,2002,2002,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1279,1Fam,1.5Fin,4,4,1920,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Gd,CBlock
+1280,1Fam,1Story,7,5,2002,2002,Gable,CompShg,VinylSd,VinylSd,BrkFace,110,Gd,TA,PConc
+1281,1Fam,1Story,7,5,1990,1990,Hip,CompShg,HdBoard,HdBoard,BrkFace,54,TA,TA,CBlock
+1282,1Fam,1Story,5,7,1977,2008,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+1283,Duplex,2Story,6,5,1971,1971,Mansard,CompShg,MetalSd,Wd Shng,None,0,TA,TA,CBlock
+1284,1Fam,1.5Fin,6,7,1919,1990,Gable,CompShg,Wd Sdng,Wd Shng,None,0,TA,TA,PConc
+1285,1Fam,1.5Fin,6,6,1939,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Fa,CBlock
+1286,1Fam,1Story,6,5,1963,1963,Hip,CompShg,HdBoard,HdBoard,BrkFace,451,TA,TA,CBlock
+1287,1Fam,1Story,5,5,1964,1964,Gable,CompShg,Wd Sdng,Wd Sdng,BrkCmn,621,TA,Gd,CBlock
+1288,TwnhsE,1Story,8,5,2000,2000,Gable,CompShg,CemntBd,CmentBd,None,0,Gd,TA,PConc
+1289,1Fam,2Story,8,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,Stone,788,Gd,TA,PConc
+1290,1Fam,SLvl,5,7,1964,1964,Hip,CompShg,Wd Sdng,HdBoard,BrkFace,86,TA,TA,PConc
+1291,Twnhs,2Story,5,7,1972,1972,Gable,CompShg,CemntBd,CmentBd,BrkFace,268,TA,TA,CBlock
+1292,1Fam,2Story,5,4,1892,1965,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,Stone
+1293,1Fam,2Story,7,5,1976,1976,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,PConc
+1294,1Fam,1Story,5,7,1955,1990,Hip,CompShg,WdShing,Plywood,None,0,TA,TA,CBlock
+1295,1Fam,1Story,5,5,1968,1968,Hip,CompShg,HdBoard,HdBoard,BrkFace,168,TA,TA,CBlock
+1296,1Fam,1Story,5,6,1963,1963,Hip,CompShg,MetalSd,MetalSd,BrkFace,148,TA,Gd,CBlock
+1297,TwnhsE,SFoyer,6,5,2005,2006,Gable,CompShg,VinylSd,VinylSd,BrkFace,82,TA,TA,PConc
+1298,1Fam,2Story,10,5,2008,2008,Hip,ClyTile,Stucco,Stucco,Stone,796,Ex,TA,PConc
+1299,1Fam,1Story,5,7,1959,1994,Hip,CompShg,BrkFace,BrkFace,None,0,TA,TA,CBlock
+1300,1Fam,2Story,7,5,1999,1999,Gable,CompShg,VinylSd,VinylSd,None,344,Gd,TA,PConc
+1301,1Fam,2Story,6,7,1942,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+1302,1Fam,2Story,8,5,1994,1994,Hip,CompShg,VinylSd,VinylSd,BrkFace,391,Gd,TA,PConc
+1303,1Fam,1Story,7,5,2005,2005,Gable,CompShg,VinylSd,VinylSd,BrkFace,228,Gd,TA,PConc
+1304,TwnhsE,2Story,7,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,Stone,117,Gd,TA,PConc
+1305,1Fam,1Story,9,5,2006,2007,Hip,CompShg,VinylSd,VinylSd,Stone,300,Gd,TA,PConc
+1306,TwnhsE,1Story,7,5,2005,2006,Gable,CompShg,VinylSd,VinylSd,Stone,94,Gd,TA,PConc
+1307,1Fam,1Story,5,5,1994,1995,Gable,CompShg,VinylSd,VinylSd,None,0,TA,Gd,PConc
+1308,1Fam,1Story,5,7,1948,2005,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+1309,1Fam,1Story,6,5,1991,1991,Gable,CompShg,HdBoard,HdBoard,BrkFace,88,TA,TA,CBlock
+1310,1Fam,1Story,7,8,1959,2002,Gable,CompShg,BrkFace,HdBoard,None,0,Gd,Gd,PConc
+1311,1Fam,1Story,7,5,2005,2007,Gable,CompShg,VinylSd,VinylSd,BrkFace,80,Gd,TA,PConc
+1312,1Fam,2Story,8,5,1990,1990,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,336,Gd,TA,PConc
+1313,1Fam,2Story,9,5,1999,1999,Gable,CompShg,VinylSd,VinylSd,BrkFace,165,Gd,TA,PConc
+1314,1Fam,1Story,4,6,1954,1954,Hip,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+1315,1Fam,2Story,6,5,1969,1969,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+1316,1Fam,1Story,8,5,2008,2008,Gable,CompShg,VinylSd,VinylSd,Stone,270,Gd,TA,PConc
+1317,TwnhsE,1Story,7,5,2006,2007,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1318,1Fam,1Story,8,5,2001,2002,Hip,CompShg,VinylSd,VinylSd,BrkFace,178,Gd,TA,PConc
+1319,1Fam,1Story,4,5,1954,1954,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,132,TA,TA,PConc
+1320,1Fam,1Story,6,3,1957,1957,Hip,CompShg,BrkFace,BrkFace,None,0,TA,TA,CBlock
+1321,1Fam,1Story,3,6,1949,1950,Hip,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+1322,1Fam,2Story,7,5,1992,1992,Gable,CompShg,HdBoard,HdBoard,None,0,Gd,TA,PConc
+1323,1Fam,1Story,4,7,1940,1950,Hip,CompShg,VinylSd,VinylSd,None,0,Fa,TA,CBlock
+1324,1Fam,1Story,8,5,2006,2007,Gable,CompShg,VinylSd,VinylSd,BrkFace,428,Gd,TA,PConc
+1325,1Fam,1Story,4,4,1922,1950,Gable,CompShg,AsbShng,AsbShng,None,0,TA,TA,BrkTil
+1326,1Fam,1Story,3,6,1931,2006,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil
+1327,1Fam,1Story,5,9,1982,2008,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,Gd,CBlock
+1328,1Fam,1.5Fin,6,7,1920,1950,Gable,CompShg,BrkFace,Wd Sdng,None,0,Gd,Gd,BrkTil
+1329,1Fam,2Story,7,5,1998,1998,Hip,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+1330,1Fam,1Story,8,5,2006,2006,Hip,CompShg,VinylSd,VinylSd,Stone,410,Gd,TA,PConc
+1331,1Fam,SLvl,5,5,1976,1976,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+1332,1Fam,1Story,4,6,1938,1958,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+1333,1Fam,1.5Fin,5,6,1938,1995,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+1334,TwnhsE,2Story,5,6,1970,1970,Gable,CompShg,HdBoard,HdBoard,None,312,TA,TA,CBlock
+1335,1Fam,1Story,6,5,1977,1977,Gable,CompShg,Plywood,Plywood,BrkFace,360,TA,TA,CBlock
+1336,Duplex,1Story,5,5,1973,1973,Gable,CompShg,Plywood,Plywood,BrkFace,564,TA,TA,CBlock
+1337,1Fam,1Story,4,4,1941,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+1338,1Fam,2Story,7,5,2002,2002,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1339,1Fam,1Story,5,7,1972,1972,Hip,CompShg,MetalSd,MetalSd,None,0,TA,Gd,CBlock
+1340,1Fam,1Story,4,5,1971,1971,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+1341,1Fam,1Story,6,5,2003,2004,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+1342,1Fam,2Story,8,5,2002,2002,Gable,CompShg,VinylSd,VinylSd,BrkFace,149,Gd,TA,PConc
+1343,1Fam,1.5Fin,6,6,1928,1950,Gable,CompShg,BrkFace,Stone,None,0,TA,TA,BrkTil
+1344,1Fam,2Story,7,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1345,1Fam,1Story,4,4,1920,1950,Hip,CompShg,MetalSd,MetalSd,None,0,TA,TA,PConc
+1346,1Fam,1Story,7,7,1968,2003,Hip,CompShg,BrkFace,HdBoard,None,0,TA,TA,CBlock
+1347,1Fam,1Story,8,5,2006,2007,Gable,CompShg,VinylSd,VinylSd,Stone,100,Gd,TA,PConc
+1348,1Fam,1Story,7,5,1998,1998,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1349,1Fam,2Story,8,5,1872,1987,Gable,CompShg,MetalSd,MetalSd,None,0,TA,Gd,BrkTil
+1350,Duplex,2Story,5,5,1969,1969,Gable,CompShg,MetalSd,MetalSd,BrkFace,368,TA,TA,CBlock
+1351,1Fam,2Story,6,6,1962,1962,Gable,CompShg,HdBoard,HdBoard,BrkFace,318,TA,TA,CBlock
+1352,1Fam,1.5Fin,6,9,1937,2000,Gable,CompShg,MetalSd,MetalSd,None,0,Gd,TA,BrkTil
+1353,1Fam,1.5Fin,8,5,1995,1996,Hip,CompShg,VinylSd,VinylSd,BrkFace,579,Gd,TA,PConc
+1354,1Fam,2Story,7,5,2000,2000,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1355,1Fam,SLvl,7,6,1968,1992,Gable,CompShg,MetalSd,MetalSd,BrkFace,143,TA,TA,CBlock
+1356,1Fam,1Story,5,5,1966,1966,Gable,CompShg,HdBoard,HdBoard,BrkFace,65,TA,TA,CBlock
+1357,1Fam,1Story,5,6,1971,2008,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+1358,Twnhs,2Story,6,5,2000,2000,Gable,CompShg,MetalSd,MetalSd,BrkFace,216,Gd,TA,PConc
+1359,1Fam,1Story,9,5,2004,2005,Hip,CompShg,VinylSd,VinylSd,BrkFace,66,Gd,TA,PConc
+1360,1Fam,2Story,5,6,1921,1998,Gable,CompShg,MetalSd,Wd Sdng,None,0,TA,TA,BrkTil
+1361,1Fam,1Story,7,5,2005,2005,Hip,CompShg,VinylSd,VinylSd,Stone,16,Gd,TA,PConc
+1362,1Fam,1.5Fin,4,4,1920,2007,Gable,CompShg,VinylSd,VinylSd,None,0,TA,Gd,BrkTil
+1363,1Fam,2Story,6,5,2006,2007,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+1364,TwnhsE,2Story,7,5,2005,2005,Gable,CompShg,MetalSd,MetalSd,None,0,Gd,TA,PConc
+1365,1Fam,2Story,7,5,2000,2000,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1366,1Fam,2Story,7,5,1999,1999,Gable,CompShg,VinylSd,VinylSd,BrkFace,158,Gd,TA,PConc
+1367,TwnhsE,2Story,5,6,1977,1977,Gable,CompShg,CemntBd,CmentBd,None,0,TA,TA,PConc
+1368,TwnhsE,1Story,6,5,2003,2004,Gable,CompShg,VinylSd,VinylSd,BrkFace,170,Gd,TA,PConc
+1369,1Fam,1Story,8,5,2003,2003,Hip,CompShg,VinylSd,VinylSd,BrkFace,171,Gd,TA,PConc
+1370,1Fam,1.5Fin,4,6,1920,1950,Gable,CompShg,CBlock,CBlock,None,0,Fa,TA,PConc
+1371,1Fam,SLvl,6,6,1955,1996,Hip,CompShg,AsbShng,AsbShng,None,0,TA,TA,CBlock
+1372,1Fam,2Story,7,6,1998,1998,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+1373,1Fam,1Story,10,5,2001,2002,Hip,CompShg,VinylSd,VinylSd,BrkFace,705,Ex,TA,PConc
+1374,1Fam,2Story,7,5,2005,2005,Gable,CompShg,CemntBd,CmentBd,None,0,Gd,TA,PConc
+1375,1Fam,1Story,8,5,2007,2007,Gable,CompShg,VinylSd,VinylSd,BrkFace,80,Gd,TA,PConc
+1376,1Fam,1Story,6,5,1930,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+1377,1Fam,1.5Fin,5,5,1941,1960,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+1378,Twnhs,2Story,6,5,1973,1973,Gable,CompShg,HdBoard,HdBoard,BrkFace,408,TA,TA,CBlock
+1379,1Fam,SLvl,5,5,2006,2007,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+1380,1Fam,1Story,3,3,1914,1950,Gable,CompShg,Stucco,Stucco,None,0,TA,Fa,BrkTil
+1381,1Fam,1Story,6,7,1970,1970,Gable,CompShg,BrkFace,Plywood,None,0,TA,TA,CBlock
+1382,1Fam,2Story,7,7,1920,1950,Hip,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+1383,1Fam,1Story,5,7,1918,2007,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,Gd,BrkTil
+1384,1Fam,1.5Fin,6,5,1939,1950,Gable,CompShg,WdShing,Wd Shng,None,0,TA,TA,BrkTil
+1385,1Fam,1.5Fin,4,8,1922,2007,Gable,CompShg,VinylSd,VinylSd,None,0,TA,Gd,BrkTil
+1386,1Fam,2Story,7,5,1978,1978,Gable,CompShg,Plywood,Plywood,BrkFace,184,TA,TA,CBlock
+1387,1Fam,1.5Fin,6,7,1916,1950,Gable,CompShg,Stucco,Stucco,None,0,TA,Gd,BrkTil
+1388,1Fam,1Story,9,5,2006,2007,Gable,CompShg,VinylSd,VinylSd,Stone,160,Ex,TA,PConc
+1389,1Fam,1.5Fin,6,6,1941,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,Gd,BrkTil
+1390,1Fam,1Story,7,5,2000,2000,Gable,CompShg,VinylSd,VinylSd,BrkFace,244,Gd,TA,PConc
+1391,Duplex,1Story,5,5,1967,1967,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+1392,1Fam,SFoyer,5,5,1967,1967,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+1393,2fmCon,1.5Fin,6,7,1905,2000,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+1394,TwnhsE,1Story,7,5,2006,2006,Hip,CompShg,VinylSd,VinylSd,BrkFace,45,Gd,TA,PConc
+1395,1Fam,2Story,8,5,2005,2006,Hip,CompShg,VinylSd,VinylSd,BrkFace,245,Gd,TA,PConc
+1396,1Fam,1Story,5,5,1948,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,CBlock
+1397,1Fam,2Story,5,8,1920,2004,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil
+1398,1Fam,1.5Fin,5,4,1950,1982,Gable,CompShg,VinylSd,Wd Sdng,None,0,TA,TA,CBlock
+1399,1Fam,1.5Fin,6,6,1925,1990,Gable,CompShg,WdShing,Wd Shng,None,0,TA,TA,BrkTil
+1400,1Fam,1.5Fin,6,7,1929,1950,Gable,CompShg,WdShing,Wd Shng,None,0,TA,TA,BrkTil
+1401,1Fam,2Story,6,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+1402,1Fam,1Story,7,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1403,1Fam,1Story,8,5,2007,2007,Gable,CompShg,VinylSd,VinylSd,Stone,84,Gd,TA,PConc
+1404,1Fam,1.5Fin,3,4,1915,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,PConc
+1405,TwnhsE,1Story,8,5,2004,2005,Hip,CompShg,CemntBd,CmentBd,Stone,174,Gd,TA,PConc
+1406,1Fam,SFoyer,5,7,1972,2007,Gable,CompShg,HdBoard,Wd Shng,None,0,TA,TA,CBlock
+1407,1Fam,1Story,5,5,1985,1985,Gable,CompShg,HdBoard,Plywood,None,0,TA,TA,CBlock
+1408,1Fam,2Story,4,7,1910,1950,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+1409,1Fam,2Story,7,6,1986,1991,Gable,CompShg,Plywood,Plywood,BrkFace,123,TA,Gd,CBlock
+1410,1Fam,2Story,7,5,2001,2001,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1411,1Fam,1.5Fin,6,8,1950,2005,Gable,CompShg,VinylSd,VinylSd,None,0,TA,Gd,CBlock
+1412,Duplex,1Story,4,5,1949,1950,Gable,CompShg,BrkFace,Stone,None,0,TA,TA,Slab
+1413,1Fam,1Story,8,5,2005,2006,Gable,CompShg,VinylSd,VinylSd,Stone,366,Gd,TA,PConc
+1414,1Fam,1.5Fin,6,7,1923,2000,Gambrel,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+1415,TwnhsE,1Story,7,5,2007,2007,Hip,CompShg,VinylSd,VinylSd,BrkFace,130,Gd,TA,PConc
+1416,2fmCon,2Story,4,6,1885,1950,Gable,CompShg,VinylSd,AsbShng,None,0,TA,TA,PConc
+1417,1Fam,2Story,8,5,1998,1998,Gable,CompShg,VinylSd,VinylSd,BrkFace,731,Gd,TA,PConc
+1418,1Fam,1Story,5,5,1963,1963,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+1419,1Fam,1Story,6,5,1969,1969,Gable,CompShg,Plywood,Plywood,BrkFace,312,Gd,Gd,CBlock
+1420,1Fam,2Story,6,6,1968,1968,Gable,CompShg,HdBoard,HdBoard,BrkFace,420,TA,TA,CBlock
+1421,TwnhsE,1Story,6,5,1977,1977,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+1422,TwnhsE,1Story,6,5,2003,2003,Gable,CompShg,VinylSd,VinylSd,BrkFace,170,Gd,TA,PConc
+1423,1Fam,SLvl,6,7,1966,1966,Flat,Tar&Grv,Plywood,Plywood,None,0,Gd,Gd,CBlock
+1424,1Fam,1Story,5,5,1958,1983,Hip,CompShg,HdBoard,HdBoard,None,0,TA,TA,CBlock
+1425,1Fam,1Story,6,6,1959,1959,Hip,CompShg,HdBoard,HdBoard,Stone,243,Gd,TA,CBlock
+1426,1Fam,2Story,7,5,1994,1994,Gable,CompShg,VinylSd,VinylSd,BrkFace,448,Gd,TA,PConc
+1427,1Fam,1.5Fin,5,6,1945,1950,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+1428,1Fam,1Story,5,7,1940,1992,Gable,CompShg,MetalSd,MetalSd,Stone,294,TA,Gd,CBlock
+1429,1Fam,1Story,6,7,1981,1981,Gable,CompShg,MetalSd,MetalSd,BrkFace,310,Gd,Gd,CBlock
+1430,1Fam,2Story,5,5,2005,2005,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1431,TwnhsE,1Story,6,6,1976,1976,Gable,CompShg,Plywood,Plywood,None,0,TA,TA,CBlock
+1432,1Fam,1Story,4,6,1927,2007,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+1433,1Fam,2Story,6,5,2000,2000,Gable,CompShg,VinylSd,VinylSd,BrkFace,318,TA,TA,PConc
+1434,1Fam,1Story,5,5,1977,1977,Gable,CompShg,BrkFace,BrkFace,None,0,TA,TA,CBlock
+1435,1Fam,1Story,6,9,1962,2005,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,237,Gd,Gd,CBlock
+1436,1Fam,1Story,4,6,1971,1971,Gable,CompShg,HdBoard,HdBoard,None,0,TA,TA,PConc
+1437,1Fam,1Story,8,5,2008,2008,Hip,CompShg,VinylSd,VinylSd,Stone,426,Ex,TA,PConc
+1438,1Fam,1Story,6,7,1957,1996,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+1439,1Fam,SLvl,7,6,1979,1979,Hip,CompShg,HdBoard,HdBoard,BrkFace,96,TA,TA,CBlock
+1440,1Fam,2.5Fin,6,7,1922,1994,Gable,CompShg,MetalSd,MetalSd,None,0,TA,TA,BrkTil
+1441,TwnhsE,1Story,6,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,BrkFace,147,Gd,TA,PConc
+1442,1Fam,2Story,10,5,2008,2008,Gable,CompShg,VinylSd,VinylSd,Stone,160,Ex,TA,PConc
+1443,1Fam,1.5Unf,6,6,1916,1950,Gable,CompShg,Wd Sdng,Wd Sdng,None,0,TA,TA,BrkTil
+1444,1Fam,1Story,7,5,2004,2004,Gable,CompShg,VinylSd,VinylSd,BrkFace,106,Gd,TA,PConc
+1445,1Fam,SFoyer,6,5,1966,1966,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+1446,1Fam,1Story,5,7,1962,1962,Gable,CompShg,HdBoard,HdBoard,BrkFace,189,TA,TA,CBlock
+1447,1Fam,2Story,8,5,1995,1996,Gable,CompShg,VinylSd,VinylSd,BrkFace,438,Gd,TA,PConc
+1448,1Fam,2Story,4,7,1910,2000,Gable,CompShg,MetalSd,HdBoard,None,0,TA,TA,CBlock
+1449,Twnhs,SFoyer,5,7,1970,1970,Gable,CompShg,CemntBd,CmentBd,None,0,TA,TA,CBlock
+1450,Duplex,2Story,5,5,1974,1974,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,CBlock
+1451,1Fam,1Story,8,5,2008,2009,Gable,CompShg,CemntBd,CmentBd,Stone,194,Gd,TA,PConc
+1452,TwnhsE,SLvl,5,5,2005,2005,Gable,CompShg,VinylSd,VinylSd,BrkFace,80,TA,TA,PConc
+1453,1Fam,1Story,5,5,2006,2006,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+1454,1Fam,1Story,7,5,2004,2005,Gable,CompShg,VinylSd,VinylSd,None,0,Gd,TA,PConc
+1455,1Fam,2Story,6,5,1999,2000,Gable,CompShg,VinylSd,VinylSd,None,0,TA,TA,PConc
+1456,1Fam,1Story,6,6,1978,1988,Gable,CompShg,Plywood,Plywood,Stone,119,TA,TA,CBlock
+1457,1Fam,2Story,7,9,1941,2006,Gable,CompShg,CemntBd,CmentBd,None,0,Ex,Gd,Stone
+1458,1Fam,1Story,5,6,1950,1996,Hip,CompShg,MetalSd,MetalSd,None,0,TA,TA,CBlock
+1459,1Fam,1Story,5,6,1965,1965,Gable,CompShg,HdBoard,HdBoard,None,0,Gd,TA,CBlock
